@@ -1,0 +1,17 @@
+---
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout
+  title={SITE_TITLE}
+  description={SITE_DESCRIPTION}
+  className="flex h-svh max-w-sm flex-col justify-center"
+>
+  <main class="space-y-4">
+    <p>
+      Welcome to my blog! If you found something wrong with the sites, you can
+      contact me using email (there's a button on the header)
+    </p>
+  </main>
+</Layout>
