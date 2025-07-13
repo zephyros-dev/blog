@@ -350,7 +350,7 @@ date: "Jul 13 2025"
 16. **Kant**: Critique of Practical Reason [^2.18]
     - [Critique of Practical Reason - Mary Gregor](https://www.amazon.com/Kant-Critique-Practical-Cambridge-Philosophy-ebook/dp/B00Q8TWV1S)
 17. **Kant**: Critique of Judgment [Critique of Aesthetic Judgment] [^2.18]
-    - [Critique of the Power of Judgment](https://www.amazon.com/Critique-Power-Judgment-Cambridge-Immanuel-ebook/dp/B00CF0JP9U)
+    - [Critique of the Power of Judgment - Paul Guyer, Eric Matthews](https://www.amazon.com/Critique-Power-Judgment-Cambridge-Immanuel-ebook/dp/B00CF0JP9U)
 18. **Mill**: Utilitarianism [^2.19]
     - [Gutenberg](https://www.gutenberg.org/ebooks/11224)
 19. **Weber**: Essays in Sociology [Part III]
