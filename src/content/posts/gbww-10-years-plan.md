@@ -26,8 +26,8 @@ date: "Jul 13 2025"
 
 - For information on the Great Books of the Western World set, checkout the [Wikipedia entry](https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World)
 - In order to aid people reading through all these books, Britannica created a Ten Year Reading Plan. To quote the Reading plan introduction:
-  > These books have for many years been used in teaching young people and in leading discussions with groups of adults. It has been found that reading whole works or integral parts of works in chronological order and, generally, in an ascending scale of difficulty is an effective way of becoming familiar with the books.
-  > The listing for each year contains twenty-one readings within the set, from which the reader may select those of particular interest rather than go through the list item by item. The Editors encourage readers to attempt some readings that may not seem immediately appealing, however; it is often in this way that one finds new treasures and makes new friends among the authors in the set.
+  > These books have for many years been used in teaching young people and in leading discussions with groups of adults. It has been found that reading whole works or integral parts of works in chronological order and, generally, in an ascending scale of difficulty is an effective way of becoming familiar with the books.\
+  > The listing for each year contains twenty-one readings within the set, from which the reader may select those of particular interest rather than go through the list item by item. The Editors encourage readers to attempt some readings that may not seem immediately appealing, however; it is often in this way that one finds new treasures and makes new friends among the authors in the set.\
   > Readers who complete the ten-year program will have become acquainted with the range and depth of the Great Conversation. They will have a sense of the relations of the authors to one another and of the variety and relations of the ideas with which they deal and will be equipped to carry on their own readings of the Great Books under the direction of their own individual interests.
 - While one can find the reading list online from a web search, none so far included a recommendation for the edition of each work. In this guide I'll attempt to show my choice of edition for each entry in the Ten year reading plan for the 1990 Edition of the GBWW set, which may include commercial editions
 - While many of the books are available in Public Domain, some of them are not. For those interested, you can check out some resources like [Standard Ebooks](https://standardebooks.org/collections/encyclopaedia-britannicas-great-books-of-the-western-world/downloads), [a Reddit user collection](https://www.reddit.com/r/ebooks/comments/eao9c8/great_books_of_the_western_world_ebook_collection/), or [Librivox audio book](https://wiki.librivox.org/index.php?title=Great_Books_of_the_Western_World)
@@ -41,7 +41,7 @@ date: "Jul 13 2025"
   3. Ebook formatting
   4. Supplementary contents
 - Given my priorties with the ebook edition for preservation, it may not neccessarily be the best edition in physical format
-- For works that are originally in English and is available at *Standard Ebooks* (.e.g: Shakespeare plays), I'll choose them over the commercial edition since I'm mostly interested in reading the text itself rather than doing deep research into each one, and to keep the original spirit of the set:
+- For works that are originally in English and is available at *Standard Ebooks* (.e.g.: Shakespeare plays), I'll choose them over the commercial edition since I'm mostly interested in reading the text itself rather than doing deep research into each one, and to keep the original spirit of the set:
   > The Advisory Board recommended that no scholarly apparatus should be included in the set. No “introductions” giving the Editors’ views of the authors should appear. The books should speak for themselves, and the reader should decide for himself. Great books contain their own aids to reading; that is one reason why they are great. Since we hold that these works are intelligible to the ordinary man, we see no reason to interpose ourselves or anybody else between the author and the reader.
 - For entries without footnotes, it's usually because there's only one digital edition I can find that passes the criteria
 
@@ -156,6 +156,7 @@ date: "Jul 13 2025"
 7. **Euclid**: Elements [Book I] [^3.7]
    - [Gutenberg](http://www.gutenberg.org/ebooks/21076)
 8. **Tacitus**: The Annals [^3.8]
+   - [The Annals - J. C. Yardley, Anthony A. Barrett](https://www.amazon.com/Annals-Reigns-Tiberius-Claudius-Classics-ebook/dp/B005RBUKDE)
 9. **St. Thomas Aquinas**: Summa Theologica [Part I-II, QQ 90-97] [^3.9]
    - [The Summa Theologica](https://www.amazon.com/dp/B00LW9IBNG)
 10. **Chaucer**: Troilus and Cressida
@@ -178,10 +179,10 @@ date: "Jul 13 2025"
       - It's called *Five Lecture on Psychoanalysis* in this edition
 19. **Twain**: Adventures of Huckleberry Finn
     - [Standard Ebooks](https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn)
-20. **Lévi-Strauss**: Structural Anthropology [Selections]
+20. **Lévi-Strauss**: Structural Anthropology [Chapters I-VI, IX-XII, XV, XVII] [^3.20]
     - [Structural Anthropology](https://www.amazon.com/Structural-Anthropology-Claude-Levi-strauss-ebook/dp/B009W73ZEU)
 21. **Poincaré**: Science and Hypothesis [Part I – II]
-    - [Science and Hypothesis: The Complete Text](https://www.amazon.com/Science-Hypothesis-Complete-Henri-Poincar%C3%A9-ebook/dp/B075F1Y9XN)
+    - [Science and Hypothesis: The Complete Text - David J. Stump, Mélanie Frappier, Andrea Smith](https://www.amazon.com/Science-Hypothesis-Complete-Henri-Poincar%C3%A9-ebook/dp/B075F1Y9XN)
 
 ### Fourth Year
 
@@ -220,7 +221,8 @@ date: "Jul 13 2025"
 18. **Dostoevsky**: The Brothers Karamazov [Part III-IV]
     - Check [Third Year, 17](#third-year)
 19. **William James**: The Principles of Psychology [Ch. XV, XX]
-20. **Frazer**: The Golden Bough [Selections]
+20. **Frazer**: The Golden Bough [Chapters I-IV, LXVI-LXIX] [^4.20]
+    - [Gutenberg](https://www.gutenberg.org/ebooks/3623)
 21. **Heisenberg**: Physics and Philosophy [Ch. 1-6]
     - [Archive.org](https://archive.org/details/physics-and-philosophy-the-revolution-in-modern-scirnce-werner-heisenberg-f.-s.-c.-northrop/)
 
@@ -498,7 +500,7 @@ date: "Jul 13 2025"
 [^1.2]: **Aristophanes**: The Clouds, Lysistrata
 
     - [Reddit discussions](https://www.reddit.com/r/classics/comments/oxn8nn/quick_question_about_translations_of_aristophanes/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-      > Ok so i really like Poochigian (the translator of the book i linked). i think he's funny, making it less wordy and really getting the humor across without losing the Greek side of things. like as someone who's read a good portion of Clouds in Greek and is currently doing Frogs right now you can tell (kind of) how the Greek is set up by looking at Poochigian's translation, if that makes sense. but it isnt wordy, long, nor dense, as some translations that stick close to the Greek are.
+      > so i really like Poochigian (the translator of the book i linked). i think he's funny, making it less wordy and really getting the humor across without losing the Greek side of things. like as someone who's read a good portion of Clouds in Greek and is currently doing Frogs right now you can tell (kind of) how the Greek is set up by looking at Poochigian's translation, if that makes sense. but it isnt wordy, long, nor dense, as some translations that stick close to the Greek are.
 
 [^1.4]: **Aristotle**: Nicomachean Ethics
 
@@ -515,7 +517,7 @@ date: "Jul 13 2025"
     - [Another articles with translation comparison](https://grammaticus.co/plutarch-translation/)
     - I went with the Penguin edition since they were the only new translation that is both available in ebook, and have everything.
 
-[^1.7]: The New Testament
+[^1.7]: Holy Bible (Old Testament, New Testament)
 
     - [Comparison between Bible translations](https://www.cambridge.org/bibles/bible-versions)
 
@@ -527,7 +529,7 @@ date: "Jul 13 2025"
 [^1.9]: **Machiavelli**: The Prince
 
     - [Reddit discussion](https://www.reddit.com/r/PoliticalPhilosophy/comments/30bm6v/seeking_a_recommendation_for_a_good_edition_of/)
-      > **Anonymous**: There is a professor at the University of Texas at Austin named Maurizio Viroli (he used to teach at Princeton) and he's arguably the leading scholar for Machiavelli. I checked both of his syllabi for the classes he teaches at UT Austin and he recommends the Oxford World's Classic Edition. It's translated by Peter Bondanella, but probably the most important thing about this translation is there is an introduction by Viroli himself. As someone who has studied under Viroli at the graduate level, he's definitely worth the read.
+      > **Anonymous**: There is a professor at the University of Texas at Austin named Maurizio Viroli (he used to teach at Princeton) and he's arguably the leading scholar for Machiavelli. I checked both of his syllabi for the classes he teaches at UT Austin and he recommends the Oxford World's Classic Edition. It's translated by Peter Bondanella, but probably the most important thing about this translation is there is an introduction by Viroli himself. As someone who has studied under Viroli at the graduate level, he's definitely worth the read.\
       > **Anonymous**: Bondanella. Includes a game changing (and accurate) translation of "si guarda al fine"- not "the end justifies the means" but rather "one must consider the final result."
 
 [^1.10]: **Rabelais**: Gargantua and Pantagruel
@@ -557,7 +559,7 @@ date: "Jul 13 2025"
 [^1.18]: **Tocqueville**: Democracy in America
 
     - [Comparison between editions from Reddit user](https://www.reddit.com/r/ClassicalEducation/comments/yebach/whats_the_best_translation_of_democracy_in_america/)
-      > I started with the Harvey Mansfield translation. Its really good. The translation uses more modern english. I dont like Harvey Mansfield as a political commentator and some of his bias shows up here and there in the language, but that aside I dont really have any gripes or issues with the translation as a whole.
+      > I started with the Harvey Mansfield translation. Its really good. The translation uses more modern english. I dont like Harvey Mansfield as a political commentator and some of his bias shows up here and there in the language, but that aside I dont really have any gripes or issues with the translation as a whole.\
       > Finally, my favorite is the Everyman's Library edition. This is my go to translation. Anytime I recall a passage of Democracy in America, I think of this translation. The translation is based on Henry Reeves, but some of the anachronisms are modernized. I'ts a nice mix of the thoughtfulness of Reeves and the modernity of the Mansfield. One of the really, really, nice features about this translation is that it builds a vocabulary by using the same words in the same context very consistently.
 
 [^1.19]: **Marx-Engels**: Manifesto of the Communist Party
@@ -572,8 +574,8 @@ date: "Jul 13 2025"
 [^2.1]: **Homer**: The Iliad
 
     - [Reddit user comparision between translations](https://www.reddit.com/r/classics/comments/l7yl6h/every_modern_iliad_translation_compared/)
-      > it comes down to Murray, Hammond, Verity, and Green as my top four. The fidelity to the Greek is just as close in all three, and they are all three well-written with no obvious issues. So it comes down to my preference for the style and readability of their writing.
-      > Here, I've changed my mind since I first posted this. I thought Hammond's prose was a little flat in comparison to the other two. And so I was wavering between Murray, Green and Verity. Although I originally preferred Verity's poetry, I have read more of her work now and the somewhat random line-breaks of her false verse begin to get grating after a while. Despite Green's semi-dull choice of "deadly Archer" for Apollo's epithet, I find his poetry to be more engaging with a better flow. He also gets extra points for his translation being in true verse. Between Green and Murray, I think Green just pips him past the post for the fact that his version is in verse.
+      > it comes down to Murray, Hammond, Verity, and Green as my top four. The fidelity to the Greek is just as close in all three, and they are all three well-written with no obvious issues. So it comes down to my preference for the style and readability of their writing.\
+      > Here, I've changed my mind since I first posted this. I thought Hammond's prose was a little flat in comparison to the other two. And so I was wavering between Murray, Green and Verity. Although I originally preferred Verity's poetry, I have read more of her work now and the somewhat random line-breaks of her false verse begin to get grating after a while. Despite Green's semi-dull choice of "deadly Archer" for Apollo's epithet, I find his poetry to be more engaging with a better flow. He also gets extra points for his translation being in true verse. Between Green and Murray, I think Green just pips him past the post for the fact that his version is in verse.\
       > This leaves my preference as Green.
 
 [^2.2]: **Aeschylus, Euripides, Sophocles**
@@ -589,12 +591,12 @@ date: "Jul 13 2025"
 
     - [Reddit user comments on various translations of this work](https://www.reddit.com/r/AYearOfMythology/comments/1bklbd8/translation_guide_the_oedipus_trilogy_theban/)
     - [Comparison between translations from Textkit forum](https://www.textkit.com/t/whats-the-best-english-translation-of-herodotus/15407/2)
-      > I’d say clearly the best translation overall is Robin Waterfield’s ... It’s a not-too-literal paraphrase of the Greek text that reproduces very faithfully the meaning but not the form of the Greek. As such, it’s of course not very useful as a crib for reading the original. Some people apparently don’t like the way Waterfield has cut up Herodotus’ long, elaborate sentences into short ones in English, but to get an adequate idea of what Herodotus really wants to say I think this is clearly the best option. The accompanying notes by Carolyn Dewald are good but rather advanced.
-      > The Landmark Herodotus can be recommended for all the additional material it contains (mostly essays, the footnotes aren’t that good), including a LOT of maps (perhaps too many). The translation is very readable but has quite a few inaccuracies.
-      > Pamela Mensch’s translation with James Romm’s introduction and notes. The translation is a bit dull, more accurate than the Landmark edition but less so than Waterfield’s, and more literal than either (the literal translation isn’t always the most accurate!). I’d mostly recommend this edition for someone who finds Dewald’s notes and introduction in Waterfield’s translation too long and advanced (say, perhaps, high school students). Romm’s unpretentious introduction and notes are aimed at someone who doesn’t know much about antiquity and do the job well without making things simpler than they really are. There are lots of notes to the text, but they are short and to the point.
-      > For a crib to help with the Greek, I’d recommend Enoch Powell’s translation, which might be hard to come by, and failing that, the Loeb. These translations are, in my opinion, worthless unless you read them with the Greek. Especially Powell’s, which is written in an archaizing thee-and-thou lingo, but is excellent help in trying to decipher the Greek original.
-      > There’s a new translation by Tom Holland, which was apparently made for teenagers who find reading boring, or perhaps with the general premise that reading is boring. A reviewer has said that this translation tries to sex up Herodotus (or something like that) and I agree. I don’t recommend this for anyone who seriously wants to get an idea of Herodotus, there are just too many inaccuracies. You can find several reviews by googling, at least one of them being surprisingly positive.
-      > Aubrey de Selincourt’s translation from the 1950’s has similar aims as Tom Holland’s, but is rather more successful. It’s not very accurate but it’s nice to read.
+      > I’d say clearly the best translation overall is Robin Waterfield’s ... It’s a not-too-literal paraphrase of the Greek text that reproduces very faithfully the meaning but not the form of the Greek. As such, it’s of course not very useful as a crib for reading the original. Some people apparently don’t like the way Waterfield has cut up Herodotus’ long, elaborate sentences into short ones in English, but to get an adequate idea of what Herodotus really wants to say I think this is clearly the best option. The accompanying notes by Carolyn Dewald are good but rather advanced.\
+      > The Landmark Herodotus can be recommended for all the additional material it contains (mostly essays, the footnotes aren’t that good), including a LOT of maps (perhaps too many). The translation is very readable but has quite a few inaccuracies.\
+      > Pamela Mensch’s translation with James Romm’s introduction and notes. The translation is a bit dull, more accurate than the Landmark edition but less so than Waterfield’s, and more literal than either (the literal translation isn’t always the most accurate!). I’d mostly recommend this edition for someone who finds Dewald’s notes and introduction in Waterfield’s translation too long and advanced (say, perhaps, high school students). Romm’s unpretentious introduction and notes are aimed at someone who doesn’t know much about antiquity and do the job well without making things simpler than they really are. There are lots of notes to the text, but they are short and to the point.\
+      > For a crib to help with the Greek, I’d recommend Enoch Powell’s translation, which might be hard to come by, and failing that, the Loeb. These translations are, in my opinion, worthless unless you read them with the Greek. Especially Powell’s, which is written in an archaizing thee-and-thou lingo, but is excellent help in trying to decipher the Greek original.\
+      > There’s a new translation by Tom Holland, which was apparently made for teenagers who find reading boring, or perhaps with the general premise that reading is boring. A reviewer has said that this translation tries to sex up Herodotus (or something like that) and I agree. I don’t recommend this for anyone who seriously wants to get an idea of Herodotus, there are just too many inaccuracies. You can find several reviews by googling, at least one of them being surprisingly positive.\
+      > Aubrey de Selincourt’s translation from the 1950’s has similar aims as Tom Holland’s, but is rather more successful. It’s not very accurate but it’s nice to read.\
       > Of the older translations, Macauley from the 19th century still has its place.
     - [Comparison between translations from Librarything (2010)](https://www.librarything.com/topic/84223)
     - [Some thoughts on Waterfield translations on HN](https://news.ycombinator.com/item?id=19414383)
@@ -643,7 +645,7 @@ date: "Jul 13 2025"
 [^2.13]:  **Pascal**: Pensées
 
     - [Comments on Penguin (Krailsheimer) and Hackett (Roger Ariew) version](https://web.archive.org/web/20250627064825/http://forum.ship-of-fools.com/cgi-bin/ultimatebb.cgi?ubb=get_topic;f=70;t=027938)
-      > The best translation on the market right now is the Penguin Classics edition—the notes could use some work, but the translation captures the spirit of Pascal's French beautifully. However, it's based on the Lafuma edition of the P's—and the Sellier edition is the currently accepted standard, although there are a few Lafuma holdouts left. There are a few passages in crucial areas that are missing from the Lafuma, as well as some minor reordering of fragments; basically, it's the more complete edition, although, to be fair, the differences are usually pretty minor.
+      > The best translation on the market right now is the Penguin Classics edition—the notes could use some work, but the translation captures the spirit of Pascal's French beautifully. However, it's based on the Lafuma edition of the P's—and the Sellier edition is the currently accepted standard, although there are a few Lafuma holdouts left. There are a few passages in crucial areas that are missing from the Lafuma, as well as some minor reordering of fragments; basically, it's the more complete edition, although, to be fair, the differences are usually pretty minor.\
       > The problem is that the Hackett edition, which is the only one that uses the Sellier, could be better. It's a bit stodgy sometimes, and the book itself (like most Hackett editions) could really be better organized and produced. Frankly, it's a bit of a toss-up between a better version of an older edition and a lesser version of a better edition.
     - There's also [an edition from Oxford](https://www.amazon.com/Pens%C3%A9es-Writings-Oxford-Worlds-Classics/dp/0199540365), but the Amazon reviews indicate some translations error, and it doesn't contains all Pascal manuscripts
     - The [latest edition I can find is translated by Pierre Zoberman, released in 2022](https://www.cuapress.org/9780813233468/pensees/), but there's no review of it that I can find, though some articles on Pascal uses it as source text
@@ -706,6 +708,15 @@ date: "Jul 13 2025"
 
 [^3.8]: **Tacitus**: The Annals
 
+    - There are 3 editions that matches my criteria:
+      - [Review for the chosen edition from Oxford](https://bmcr.brynmawr.edu/2009/2009.02.15)
+        - [Comparison to other editions on Amazon](https://www.amazon.com/review/R30P73TX3GFKIE/ref=cm_cr_srp_d_rdp_perm?ie=UTF8)
+      - [Penguin edition, translated by Cynthia Damon, 2014](https://www.amazon.com/Annals-Penguin-Classics-Tacitus-ebook/dp/B009OJQR6O)
+        - [Review](https://bmcr.brynmawr.edu/2014/2014.05.56)
+      - [Hackett publisher, translated by A. J. Woodman](https://www.amazon.com/Annals-Hackett-Classics-Tacitus-ebook/dp/B00R5DEJVG)
+        - [Review](https://bmcr.brynmawr.edu/2005/2005.07.15)
+    - I chose the Oxford edition due to it being accurate enough while easier for general readers compared to the Woodman edition. The Damon translation is `bold, creative, commanding` according to the review, which does not really match my criteria
+
 [^3.9]: **St. Thomas Aquinas**: Summa Theologica
 
     - [Oxford handbooks on list of Editions and Translations](https://academic.oup.com/edited-volume/28242/chapter/213362513)
@@ -725,10 +736,24 @@ date: "Jul 13 2025"
 [^3.17]: **Dostoevsky**: The Brothers Karamazov
 
     - Translations comparison from [Welovetranslations](https://welovetranslations.com/2022/01/10/whats-the-best-translation-of-the-brothers-karamazov/)
-      > If you are familiar with the novel already, or you’re up for a challenge, try Pevear and Volokhonsky for a more authentically Russian reading experience.
+      > If you are familiar with the novel already, or you’re up for a challenge, try Pevear and Volokhonsky for a more authentically Russian reading experience.\
       > If the idea of reading an old-fashioned or jarringly Russian text is intimidating, try Avsey, a looser translation written in idiomatic modern English, or the newest translation by Katz.
 
+[^3.20]: **Lévi-Strauss**: Structural Anthropology
+
+    - In the GBWW, only a partial part of the full work was selected to be put into the volume. According to [an advertisement brochure for the 2nd edition](https://web.archive.org/web/20230531062640/http://resourcecentre.daiict.ac.in/cas/bibliographies/greatbooks/great_books_09.pdf), this part was *Chapters I-VI, IX-XII, XV, XVII*
+
+[^4.20]: **Frazer**: The Golden Bough
+
+    - In the GBWW series, only a partial part of the full work was selected to be put into the volume. According to [an advertisement brochure for the 2nd edition](https://web.archive.org/web/20230531062640/http://resourcecentre.daiict.ac.in/cas/bibliographies/greatbooks/great_books_09.pdf), this part was *Chapters I-IV, LXVI-LXIX*
+    - The original work itself has many editions according to [Wikipedia](https://en.wikipedia.org/wiki/The_Golden_Bough), however given the Chapters numbering, I found that it matches the 1922 edition so I went with it.
+      - The latest edition from reputable publish with Ebook format is from [Oxford](https://www.amazon.com/Golden-Bough-Religion-Oxford-Classics-ebook/dp/B005OQH0ZI), but since its version numbering was not matching the selections above, I decided to use the version that was used in the original GBWW series
+    - If you want nicer formatting and an introduction, there's the [Penguin version](https://www.amazon.com/Golden-Bough-Religion-Penguin-Classics-ebook/dp/B003FXCSTK). The text and footnotes are the same however
+
 [^5.20]: **Waddington**: The Nature of Life
+
+    - Also available in the [Compilation Works from Routledge](https://www.amazon.com/Selected-Works-Waddington-Routledge-Revivals-ebook/dp/B097HYQ8FY)
+      - It is expensive however, so not for the general consumer. I believe those with institutional access can borrow it, and it is also available if you know where to look...
 
 [^6.2]: **Homer**: The Odyssey
 
