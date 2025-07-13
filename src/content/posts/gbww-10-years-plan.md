@@ -605,7 +605,7 @@ date: "Jul 13 2025"
 
     - [Comments on edition choice from Readthegreatbooks](https://www.readthegreatbooks.com/books/aristotle-poetics-best-translation)
     - Personally I went with Oxford edition since its Table of Content in the ebook format contains all the chapter unlike the Hackett edition
-    - For future reader, this work will be translated by Reeve in his [Aristotle Complete Works Vol.2](https://hackettpublishing.com/pdfs/ACW_Detailed_TOC_Book-2.pdf) which is the choice for all of our Aristotle works in the Reading plan
+    - For future reader, this work will be translated by Reeve in his [Aristotle Complete Works Volume 2](https://hackettpublishing.com/pdfs/ACW_Detailed_TOC_Book-2.pdf) which is the choice for all of our Aristotle works in the Reading plan
 
 [^2.9]: **Lucretius**: On the Nature of Things
 
@@ -698,7 +698,7 @@ date: "Jul 13 2025"
 
 [^3.5]: **Aristotle**: On Interpretation
 
-    - For future reader, this work will be translated by Reeve in his [Aristotle Complete Works Vol.1](https://hackettpublishing.com/pdfs/ACW_Detailed_TOC_Book-1.pdf) which is the choice for all of our Aristotle works in the Reading plan
+    - For future reader, this work will be translated by Reeve in his [Aristotle Complete Works Volume 1](https://hackettpublishing.com/pdfs/ACW_Detailed_TOC_Book-1.pdf) which is the choice for all of our Aristotle works in the Reading plan
 
 [^3.7]: **Euclid**: Elements
 
