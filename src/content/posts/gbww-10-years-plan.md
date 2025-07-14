@@ -202,14 +202,16 @@ date: "Jul 13 2025"
    - Check [First Year, 8](#first-year)
 7. **St. Thomas Aquinas**: Summa Theologica [Part I, QQ 16-17, 84-88]
    - Check [Third Year, 9](#third-year)
-8. **Calvin**: Institutes of the Christian Religion [Book III]
+8. **Calvin**: Institutes of the Christian Religion [Book III] [^4.8]
+   - [Institutes of the Christian Religion - Ford Lewis Battles](https://www.amazon.com/Calvin-Institutes-Christian-Religion-Classics-ebook/dp/B00IYW227A)
 9. **Montaigne**: Apology for Raymond de Sebonde
    - Check [First Year, 11](#first-year)
 10. **Galileo**: Two New Sciences [Third Day, through Scholium of Theorem II]
     - [Two New Sciences - Alessandro De Angelis](https://www.amazon.com/Galileo-Galileis-Two-New-Sciences-ebook/dp/B09PTT8P4Q)
 11. **Bacon**: Novum Organum [Preface, Book I]
 12. **Descartes**: Discourse on the Method
-13. **Newton**: Mathematical Principles of Natural Philosophy [Prefaces, Definitions, Axioms, General Scholium]
+13. **Newton**: Mathematical Principles of Natural Philosophy [Prefaces, Definitions, Axioms, General Scholium] [^4.13]
+    - [The Principia - Bernard Cohen, Anne Whitman, Julia Budenz](https://www.amazon.com/Principia-Authoritative-Translation-Mathematical-Principles-ebook/dp/B017CXNRKC)
 14. **Locke**: An Essay Concerning Human Understanding [Book II]
     - Check [First Year, 13](#first-year)
 15. **Hume**: An Enquiry Concerning Human Understanding
@@ -220,7 +222,9 @@ date: "Jul 13 2025"
     - [Standard Ebooks](https://standardebooks.org/ebooks/herman-melville/moby-dick)
 18. **Dostoevsky**: The Brothers Karamazov [Part III-IV]
     - Check [Third Year, 17](#third-year)
-19. **William James**: The Principles of Psychology [Ch. XV, XX]
+19. **William James**: The Principles of Psychology [Ch. XV, XX] [^4.19]
+    - [Volume 1 - Dover Publisher](https://www.amazon.com/Principles-Psychology-Dover-Biology-Medicine-ebook/dp/B008TVFCXC)
+    - [Volume 2 - Dover Publisher](https://www.amazon.com/Principles-Psychology-Vol-2-ebook/dp/B00A7IMF26)
 20. **Frazer**: The Golden Bough [Chapters I-IV, LXVI-LXIX] [^4.20]
     - [Gutenberg](https://www.gutenberg.org/ebooks/3623)
 21. **Heisenberg**: Physics and Philosophy [Ch. 1-6]
@@ -742,6 +746,20 @@ date: "Jul 13 2025"
 [^3.20]: **Lévi-Strauss**: Structural Anthropology
 
     - In the GBWW, only a partial part of the full work was selected to be put into the volume. According to [an advertisement brochure for the 2nd edition](https://web.archive.org/web/20230531062640/http://resourcecentre.daiict.ac.in/cas/bibliographies/greatbooks/great_books_09.pdf), this part was *Chapters I-VI, IX-XII, XV, XVII*
+
+[^4.8]: **Calvin**: Institutes of the Christian Religion
+
+    - I chose this edition since it is considered the authoritative edition of the work according to [Wikipedia](https://en.wikipedia.org/wiki/Institutes_of_the_Christian_Religion#cite_note-22)
+
+[^4.13]: **Newton**: Mathematical Principles of Natural Philosophy
+
+    - This is the latest translations with Ebook format available. For paperback users I found 2 other editions worth noting:
+      - Dana Densmore and William H. Donahue [edition](https://www.amazon.com/dp/1888009241) which [was developed as a textbook for classes at St. John's College and the aim of this translation is to be faithful to the Latin text](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica#cite_note-129), so it might be best suited for the readers of the set
+      - Charles Leedham-Green [edition](https://www.amazon.com/dp/1107020654) which [aim was to convey Newton's own reasoning and arguments in a way intelligible to a modern mathematical scientist](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica#cite_note-127)
+
+[^4.19]: **William James**: The Principles of Psychology
+
+    - While there are many editions of this work on Amazon, including Gutenberg, I chose the Dover edition due to it having footnotes hyperlink, and proper chapter with sections in table of contents
 
 [^4.20]: **Frazer**: The Golden Bough
 
