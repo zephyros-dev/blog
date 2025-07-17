@@ -5,5 +5,3 @@ export const SITE_URL = "https://zhex.dev";
 export const SITE_TITLE = "Zhex's Blog";
 export const SITE_DESCRIPTION =
   "Zhex's blog";
-
-export const EMAIL = "me@zhex.dev";
