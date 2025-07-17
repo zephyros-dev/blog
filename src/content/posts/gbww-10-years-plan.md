@@ -208,8 +208,10 @@ date: "Jul 13 2025"
    - Check [First Year, 11](#first-year)
 10. **Galileo**: Two New Sciences [Third Day, through Scholium of Theorem II]
     - [Two New Sciences - Alessandro De Angelis](https://www.amazon.com/Galileo-Galileis-Two-New-Sciences-ebook/dp/B09PTT8P4Q)
-11. **Bacon**: Novum Organum [Preface, Book I]
-12. **Descartes**: Discourse on the Method
+11. **Bacon**: Novum Organum [Preface, Book I] [^4.11]
+    - [Bacon: Selected Philosophical Works - Rose-Mary Sargent](https://www.amazon.com/Bacon-Selected-Philosophical-Hackett-Classics-ebook/dp/B00OZ4NMQQ)
+12. **Descartes**: Discourse on the Method [^4.12]
+    - [The Philosophical Writings of Descartes: Volume 2 - John Cottingham, Robert Stoothoff, Dugald Murdoch](https://www.amazon.com/Philosophical-Writings-Descartes-2-ebook/dp/B00D2WQ6HE)
 13. **Newton**: Mathematical Principles of Natural Philosophy [Prefaces, Definitions, Axioms, General Scholium] [^4.13]
     - [The Principia - Bernard Cohen, Anne Whitman, Julia Budenz](https://www.amazon.com/Principia-Authoritative-Translation-Mathematical-Principles-ebook/dp/B017CXNRKC)
 14. **Locke**: An Essay Concerning Human Understanding [Book II]
@@ -234,14 +236,15 @@ date: "Jul 13 2025"
 
 1. **Plato**: Phaedo
    - Check [First Year, 1](#first-year)
-2. **Aristotle**: Categories
+2. **Aristotle**: Categories [^3.5]
 3. **Aristotle**: On the Soul [Book II, Ch. 1-3; Book III] [^1.4]
    - [De Anima - C. D. C. Reeve](https://www.amazon.com/Anima-New-Hackett-Aristotle-ebook/dp/B075YF8JVB)
 4. **Hippocrates**: The Oath; On Ancient Medicine; On Airs, Waters, and Places; The Book of Prognostics; Of the Epidemics; The Law; On the Sacred Disease
    - [Delphi Complete Works of Hippocrates](https://www.amazon.com/dp/B00SKAE62K)
 5. **Galen**: On the Natural Faculties
    - [Gutenberg](https://www.gutenberg.org/ebooks/43383)
-6. **Virgil**: The Aeneid
+6. **Virgil**: The Aeneid [^5.6]
+   - [The Aeneid - Sarah Ruden](https://www.amazon.com/dp/B08T1NJ3VH)
 7. Asotronomy Works
    - **Ptolemy**: The Almagest [Book I, Ch. 1-8]
      - [Ptolemy's Almagest - G. J. Toomer](https://press.princeton.edu/books/ebook/9780691213361/ptolemys-almagest)
@@ -700,7 +703,7 @@ date: "Jul 13 2025"
     - [Readthegreatbooks recommendation](https://www.readthegreatbooks.com/books/thucydides-peloponnesian-war-best-translation)
     - I went with the Mynott translation due to it being the latest version with good reviews
 
-[^3.5]: **Aristotle**: On Interpretation
+[^3.5]: **Aristotle**: On Interpretation, Categories
 
     - For future reader, this work will be translated by Reeve in his [Aristotle Complete Works Volume 1](https://hackettpublishing.com/pdfs/ACW_Detailed_TOC_Book-1.pdf) which is the choice for all of our Aristotle works in the Reading plan
 
@@ -751,6 +754,17 @@ date: "Jul 13 2025"
 
     - I chose this edition since it is considered the authoritative edition of the work according to [Wikipedia](https://en.wikipedia.org/wiki/Institutes_of_the_Christian_Religion#cite_note-22)
 
+[^4.11]: **Bacon**: Novum Organum
+
+    - [A comparison between editions from Readthegreatbooks](https://www.readthegreatbooks.com/books/bacon-novum-organum-%28new-organon%29-best-translation)
+      > The best option is that of Hackett’s. It balances the line between too much and too little quite well. It is easily readable but doesn’t skimp on details or notations, while at the same time it isn’t overly done.
+
+[^4.12]: **Descartes**: Discourse on the Method
+
+    - [Discussion of edition choice on Stackexchange](https://philosophy.stackexchange.com/questions/55613/what-are-the-best-translations-of-descartes-books)
+      > For Descartes' major philosophical works the current Cambridge tr., 'The Philosophical Writings of Descartes', is probably the best both in terms of the Latin and French scholarship that has gone into it and in terms of philosophical finesse by which it is informed. Other translations, Hackett's or Penguin's, are pretty good but are not so complete (include fewer texts) than the Cambridge edition.
+    - A [review on Amazon also recommend Oxford editions if you find this edition too challenging](https://www.amazon.com/gp/customer-reviews/R33YXKD7VNWS7B?ie=UTF8)
+
 [^4.13]: **Newton**: Mathematical Principles of Natural Philosophy
 
     - This is the latest translations with Ebook format available. For paperback users I found 2 other editions worth noting:
@@ -767,6 +781,13 @@ date: "Jul 13 2025"
     - The original work itself has many editions according to [Wikipedia](https://en.wikipedia.org/wiki/The_Golden_Bough), however given the Chapters numbering, I found that it matches the 1922 edition so I went with it.
       - The latest edition from reputable publish with Ebook format is from [Oxford](https://www.amazon.com/Golden-Bough-Religion-Oxford-Classics-ebook/dp/B005OQH0ZI), but since its version numbering was not matching the selections above, I decided to use the version that was used in the original GBWW series
     - If you want nicer formatting and an introduction, there's the [Penguin version](https://www.amazon.com/Golden-Bough-Religion-Penguin-Classics-ebook/dp/B003FXCSTK). The text and footnotes are the same however
+
+[^5.6]: **Virgil**: The Aeneid
+
+    - [A massive comparisons between the translations edition](https://coolest.substack.com/p/english-translations-of-the-aeneid)
+      > Ahl: More than anyone else, Ahl seems to have striven to capture every possible facet of the original: the meter, the wordplay, the assonance & alliteration, the meaning… it’s all there. Most must choose between “accurate, but not an object of literary value per se” vs. “poetic & artful, but not very true to the source”; for my money, Ahl has—somehow—managed to have his libum (archive), and eat it too.
+      > Ruden: Sure, sure, it is not the Sacred Hexameter… but it is an extremely faithful rendering—more-so than most—and she still manages word choice finer than Bartsch’s & phrasing more natural than Krisak’s, to my mind’s… ear(?); and, not infrequently, her brevity makes it a smoother & easier read compared to Ahl’s (relative) prolixity.
+    - [A list of translations](https://foundinantiquity.com/2023/12/05/do-we-have-too-many-english-translations-of-the-aeneid/)
 
 [^5.20]: **Waddington**: The Nature of Life
 
