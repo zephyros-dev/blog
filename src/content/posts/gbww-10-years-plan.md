@@ -506,7 +506,7 @@ date: "Jul 13 2025"
 
 [^1.2]: **Aristophanes**: The Clouds, Lysistrata
 
-    - [Reddit discussions](https://www.reddit.com/r/classics/comments/oxn8nn/quick_question_about_translations_of_aristophanes/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+    - [Reddit discussions](https://www.reddit.com/r/classics/comments/oxn8nn/quick_question_about_translations_of_aristophanes)
       > so i really like Poochigian (the translator of the book i linked). i think he's funny, making it less wordy and really getting the humor across without losing the Greek side of things. like as someone who's read a good portion of Clouds in Greek and is currently doing Frogs right now you can tell (kind of) how the Greek is set up by looking at Poochigian's translation, if that makes sense. but it isnt wordy, long, nor dense, as some translations that stick close to the Greek are.
 
 [^1.4]: **Aristotle**: Nicomachean Ethics
