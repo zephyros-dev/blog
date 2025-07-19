@@ -26,9 +26,9 @@ date: "Jul 13 2025"
 
 - For information on the Great Books of the Western World set, checkout the [Wikipedia entry](https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World)
 - In order to aid people reading through all these books, Britannica created a Ten Year Reading Plan. To quote the Reading plan introduction:
-  > These books have for many years been used in teaching young people and in leading discussions with groups of adults. It has been found that reading whole works or integral parts of works in chronological order and, generally, in an ascending scale of difficulty is an effective way of becoming familiar with the books.\
-  > The listing for each year contains twenty-one readings within the set, from which the reader may select those of particular interest rather than go through the list item by item. The Editors encourage readers to attempt some readings that may not seem immediately appealing, however; it is often in this way that one finds new treasures and makes new friends among the authors in the set.\
-  > Readers who complete the ten-year program will have become acquainted with the range and depth of the Great Conversation. They will have a sense of the relations of the authors to one another and of the variety and relations of the ideas with which they deal and will be equipped to carry on their own readings of the Great Books under the direction of their own individual interests.
+  > - These books have for many years been used in teaching young people and in leading discussions with groups of adults. It has been found that reading whole works or integral parts of works in chronological order and, generally, in an ascending scale of difficulty is an effective way of becoming familiar with the books.
+  > - The listing for each year contains twenty-one readings within the set, from which the reader may select those of particular interest rather than go through the list item by item. The Editors encourage readers to attempt some readings that may not seem immediately appealing, however; it is often in this way that one finds new treasures and makes new friends among the authors in the set.
+  > - Readers who complete the ten-year program will have become acquainted with the range and depth of the Great Conversation. They will have a sense of the relations of the authors to one another and of the variety and relations of the ideas with which they deal and will be equipped to carry on their own readings of the Great Books under the direction of their own individual interests.
 - While one can find the reading list online from a web search, none so far included a recommendation for the edition of each work. In this guide I'll attempt to show my choice of edition for each entry in the Ten year reading plan for the 1990 Edition of the GBWW set, which may include commercial editions
 - While many of the books are available in Public Domain, some of them are not. For those interested, you can check out some resources like [Standard Ebooks](https://standardebooks.org/collections/encyclopaedia-britannicas-great-books-of-the-western-world/downloads), [a Reddit user collection](https://www.reddit.com/r/ebooks/comments/eao9c8/great_books_of_the_western_world_ebook_collection/), or [Librivox audio book](https://wiki.librivox.org/index.php?title=Great_Books_of_the_Western_World)
 
@@ -252,10 +252,12 @@ date: "Jul 13 2025"
      - [The Dawn of Modern Cosmology - Aviva Rothman](https://www.amazon.com/Dawn-Modern-Cosmology-Copernicus-Newton-ebook/dp/B0C2Y45QBZ)
    - **Kepler**: Epitome of Copernican Astronomy [Book IV, Part II, Ch. 1-2]
      - [The Dawn of Modern Cosmology - Aviva Rothman](https://www.amazon.com/Dawn-Modern-Cosmology-Copernicus-Newton-ebook/dp/B0C2Y45QBZ)
-8. **Plotinus**: Sixth Ennead
+8. **Plotinus**: Sixth Ennead [^5.8]
+   - [The Enneads - George Boys-Stones, John M. Dillon, R. A. H. King, Andrew Smith, James Wilberding](https://www.amazon.com/dp/B07951PN1Q)
 9. **St. Thomas Aquinas**: Summa Theologica [Part I, QQ 75-76, 78-79]
    - Check [Third Year, 9](#third-year)
-10. **Dante**: The Divine Comedy [Inferno]
+10. **Dante**: The Divine Comedy [Inferno] [^5.10]
+    - [The Divine Comedy - Micahel Palma](https://www.amazon.com/dp/B0CT6HFH8V)
 11. **Harvey**: The Motion of the Heart and Blood
     - [On the Motion of the Heart and Blood in Animals](https://www.amazon.com/Motion-Heart-Blood-Animals-Exercitatio-ebook/dp/B06W9JSZBZ)
 12. **Cervantes**: Don Quixote [Part I]
@@ -536,8 +538,8 @@ date: "Jul 13 2025"
 [^1.9]: **Machiavelli**: The Prince
 
     - [Reddit discussion](https://www.reddit.com/r/PoliticalPhilosophy/comments/30bm6v/seeking_a_recommendation_for_a_good_edition_of/)
-      > **Anonymous**: There is a professor at the University of Texas at Austin named Maurizio Viroli (he used to teach at Princeton) and he's arguably the leading scholar for Machiavelli. I checked both of his syllabi for the classes he teaches at UT Austin and he recommends the Oxford World's Classic Edition. It's translated by Peter Bondanella, but probably the most important thing about this translation is there is an introduction by Viroli himself. As someone who has studied under Viroli at the graduate level, he's definitely worth the read.\
-      > **Anonymous**: Bondanella. Includes a game changing (and accurate) translation of "si guarda al fine"- not "the end justifies the means" but rather "one must consider the final result."
+      > - **Anonymous**: There is a professor at the University of Texas at Austin named Maurizio Viroli (he used to teach at Princeton) and he's arguably the leading scholar for Machiavelli. I checked both of his syllabi for the classes he teaches at UT Austin and he recommends the Oxford World's Classic Edition. It's translated by Peter Bondanella, but probably the most important thing about this translation is there is an introduction by Viroli himself. As someone who has studied under Viroli at the graduate level, he's definitely worth the read.
+      > - **Anonymous**: Bondanella. Includes a game changing (and accurate) translation of "si guarda al fine"- not "the end justifies the means" but rather "one must consider the final result."
 
 [^1.10]: **Rabelais**: Gargantua and Pantagruel
 
@@ -566,8 +568,8 @@ date: "Jul 13 2025"
 [^1.18]: **Tocqueville**: Democracy in America
 
     - [Comparison between editions from Reddit user](https://www.reddit.com/r/ClassicalEducation/comments/yebach/whats_the_best_translation_of_democracy_in_america/)
-      > I started with the Harvey Mansfield translation. Its really good. The translation uses more modern english. I dont like Harvey Mansfield as a political commentator and some of his bias shows up here and there in the language, but that aside I dont really have any gripes or issues with the translation as a whole.\
-      > Finally, my favorite is the Everyman's Library edition. This is my go to translation. Anytime I recall a passage of Democracy in America, I think of this translation. The translation is based on Henry Reeves, but some of the anachronisms are modernized. I'ts a nice mix of the thoughtfulness of Reeves and the modernity of the Mansfield. One of the really, really, nice features about this translation is that it builds a vocabulary by using the same words in the same context very consistently.
+      > - I started with the Harvey Mansfield translation. Its really good. The translation uses more modern english. I dont like Harvey Mansfield as a political commentator and some of his bias shows up here and there in the language, but that aside I dont really have any gripes or issues with the translation as a whole
+      > - Finally, my favorite is the Everyman's Library edition. This is my go to translation. Anytime I recall a passage of Democracy in America, I think of this translation. The translation is based on Henry Reeves, but some of the anachronisms are modernized. I'ts a nice mix of the thoughtfulness of Reeves and the modernity of the Mansfield. One of the really, really, nice features about this translation is that it builds a vocabulary by using the same words in the same context very consistently.
 
 [^1.19]: **Marx-Engels**: Manifesto of the Communist Party
 
@@ -581,9 +583,9 @@ date: "Jul 13 2025"
 [^2.1]: **Homer**: The Iliad
 
     - [Reddit user comparision between translations](https://www.reddit.com/r/classics/comments/l7yl6h/every_modern_iliad_translation_compared/)
-      > it comes down to Murray, Hammond, Verity, and Green as my top four. The fidelity to the Greek is just as close in all three, and they are all three well-written with no obvious issues. So it comes down to my preference for the style and readability of their writing.\
-      > Here, I've changed my mind since I first posted this. I thought Hammond's prose was a little flat in comparison to the other two. And so I was wavering between Murray, Green and Verity. Although I originally preferred Verity's poetry, I have read more of her work now and the somewhat random line-breaks of her false verse begin to get grating after a while. Despite Green's semi-dull choice of "deadly Archer" for Apollo's epithet, I find his poetry to be more engaging with a better flow. He also gets extra points for his translation being in true verse. Between Green and Murray, I think Green just pips him past the post for the fact that his version is in verse.\
-      > This leaves my preference as Green.
+      > - it comes down to Murray, Hammond, Verity, and Green as my top four. The fidelity to the Greek is just as close in all three, and they are all three well-written with no obvious issues. So it comes down to my preference for the style and readability of their writing.
+      > - Here, I've changed my mind since I first posted this. I thought Hammond's prose was a little flat in comparison to the other two. And so I was wavering between Murray, Green and Verity. Although I originally preferred Verity's poetry, I have read more of her work now and the somewhat random line-breaks of her false verse begin to get grating after a while. Despite Green's semi-dull choice of "deadly Archer" for Apollo's epithet, I find his poetry to be more engaging with a better flow. He also gets extra points for his translation being in true verse. Between Green and Murray, I think Green just pips him past the post for the fact that his version is in verse.
+      > - This leaves my preference as Green.
 
 [^2.2]: **Aeschylus, Euripides, Sophocles**
 
@@ -598,13 +600,13 @@ date: "Jul 13 2025"
 
     - [Reddit user comments on various translations of this work](https://www.reddit.com/r/AYearOfMythology/comments/1bklbd8/translation_guide_the_oedipus_trilogy_theban/)
     - [Comparison between translations from Textkit forum](https://www.textkit.com/t/whats-the-best-english-translation-of-herodotus/15407/2)
-      > I’d say clearly the best translation overall is Robin Waterfield’s ... It’s a not-too-literal paraphrase of the Greek text that reproduces very faithfully the meaning but not the form of the Greek. As such, it’s of course not very useful as a crib for reading the original. Some people apparently don’t like the way Waterfield has cut up Herodotus’ long, elaborate sentences into short ones in English, but to get an adequate idea of what Herodotus really wants to say I think this is clearly the best option. The accompanying notes by Carolyn Dewald are good but rather advanced.\
-      > The Landmark Herodotus can be recommended for all the additional material it contains (mostly essays, the footnotes aren’t that good), including a LOT of maps (perhaps too many). The translation is very readable but has quite a few inaccuracies.\
-      > Pamela Mensch’s translation with James Romm’s introduction and notes. The translation is a bit dull, more accurate than the Landmark edition but less so than Waterfield’s, and more literal than either (the literal translation isn’t always the most accurate!). I’d mostly recommend this edition for someone who finds Dewald’s notes and introduction in Waterfield’s translation too long and advanced (say, perhaps, high school students). Romm’s unpretentious introduction and notes are aimed at someone who doesn’t know much about antiquity and do the job well without making things simpler than they really are. There are lots of notes to the text, but they are short and to the point.\
-      > For a crib to help with the Greek, I’d recommend Enoch Powell’s translation, which might be hard to come by, and failing that, the Loeb. These translations are, in my opinion, worthless unless you read them with the Greek. Especially Powell’s, which is written in an archaizing thee-and-thou lingo, but is excellent help in trying to decipher the Greek original.\
-      > There’s a new translation by Tom Holland, which was apparently made for teenagers who find reading boring, or perhaps with the general premise that reading is boring. A reviewer has said that this translation tries to sex up Herodotus (or something like that) and I agree. I don’t recommend this for anyone who seriously wants to get an idea of Herodotus, there are just too many inaccuracies. You can find several reviews by googling, at least one of them being surprisingly positive.\
-      > Aubrey de Selincourt’s translation from the 1950’s has similar aims as Tom Holland’s, but is rather more successful. It’s not very accurate but it’s nice to read.\
-      > Of the older translations, Macauley from the 19th century still has its place.
+      > - I’d say clearly the best translation overall is Robin Waterfield’s ... It’s a not-too-literal paraphrase of the Greek text that reproduces very faithfully the meaning but not the form of the Greek. As such, it’s of course not very useful as a crib for reading the original. Some people apparently don’t like the way Waterfield has cut up Herodotus’ long, elaborate sentences into short ones in English, but to get an adequate idea of what Herodotus really wants to say I think this is clearly the best option. The accompanying notes by Carolyn Dewald are good but rather advanced.\
+      > - The Landmark Herodotus can be recommended for all the additional material it contains (mostly essays, the footnotes aren’t that good), including a LOT of maps (perhaps too many). The translation is very readable but has quite a few inaccuracies.\
+      > - Pamela Mensch’s translation with James Romm’s introduction and notes. The translation is a bit dull, more accurate than the Landmark edition but less so than Waterfield’s, and more literal than either (the literal translation isn’t always the most accurate!). I’d mostly recommend this edition for someone who finds Dewald’s notes and introduction in Waterfield’s translation too long and advanced (say, perhaps, high school students). Romm’s unpretentious introduction and notes are aimed at someone who doesn’t know much about antiquity and do the job well without making things simpler than they really are. There are lots of notes to the text, but they are short and to the point.\
+      > - For a crib to help with the Greek, I’d recommend Enoch Powell’s translation, which might be hard to come by, and failing that, the Loeb. These translations are, in my opinion, worthless unless you read them with the Greek. Especially Powell’s, which is written in an archaizing thee-and-thou lingo, but is excellent help in trying to decipher the Greek original.\
+      > - There’s a new translation by Tom Holland, which was apparently made for teenagers who find reading boring, or perhaps with the general premise that reading is boring. A reviewer has said that this translation tries to sex up Herodotus (or something like that) and I agree. I don’t recommend this for anyone who seriously wants to get an idea of Herodotus, there are just too many inaccuracies. You can find several reviews by googling, at least one of them being surprisingly positive.\
+      > - Aubrey de Selincourt’s translation from the 1950’s has similar aims as Tom Holland’s, but is rather more successful. It’s not very accurate but it’s nice to read.\
+      > - Of the older translations, Macauley from the 19th century still has its place.
     - [Comparison between translations from Librarything (2010)](https://www.librarything.com/topic/84223)
     - [Some thoughts on Waterfield translations on HN](https://news.ycombinator.com/item?id=19414383)
 
@@ -652,8 +654,8 @@ date: "Jul 13 2025"
 [^2.13]:  **Pascal**: Pensées
 
     - [Comments on Penguin (Krailsheimer) and Hackett (Roger Ariew) version](https://web.archive.org/web/20250627064825/http://forum.ship-of-fools.com/cgi-bin/ultimatebb.cgi?ubb=get_topic;f=70;t=027938)
-      > The best translation on the market right now is the Penguin Classics edition—the notes could use some work, but the translation captures the spirit of Pascal's French beautifully. However, it's based on the Lafuma edition of the P's—and the Sellier edition is the currently accepted standard, although there are a few Lafuma holdouts left. There are a few passages in crucial areas that are missing from the Lafuma, as well as some minor reordering of fragments; basically, it's the more complete edition, although, to be fair, the differences are usually pretty minor.\
-      > The problem is that the Hackett edition, which is the only one that uses the Sellier, could be better. It's a bit stodgy sometimes, and the book itself (like most Hackett editions) could really be better organized and produced. Frankly, it's a bit of a toss-up between a better version of an older edition and a lesser version of a better edition.
+      > - The best translation on the market right now is the Penguin Classics edition—the notes could use some work, but the translation captures the spirit of Pascal's French beautifully. However, it's based on the Lafuma edition of the P's—and the Sellier edition is the currently accepted standard, although there are a few Lafuma holdouts left. There are a few passages in crucial areas that are missing from the Lafuma, as well as some minor reordering of fragments; basically, it's the more complete edition, although, to be fair, the differences are usually pretty minor.\
+      > - The problem is that the Hackett edition, which is the only one that uses the Sellier, could be better. It's a bit stodgy sometimes, and the book itself (like most Hackett editions) could really be better organized and produced. Frankly, it's a bit of a toss-up between a better version of an older edition and a lesser version of a better edition.
     - There's also [an edition from Oxford](https://www.amazon.com/Pens%C3%A9es-Writings-Oxford-Worlds-Classics/dp/0199540365), but the Amazon reviews indicate some translations error, and it doesn't contains all Pascal manuscripts
     - The [latest edition I can find is translated by Pierre Zoberman, released in 2022](https://www.cuapress.org/9780813233468/pensees/), but there's no review of it that I can find, though some articles on Pascal uses it as source text
 
@@ -785,14 +787,31 @@ date: "Jul 13 2025"
 [^5.6]: **Virgil**: The Aeneid
 
     - [A massive comparisons between the translations edition](https://coolest.substack.com/p/english-translations-of-the-aeneid)
-      > Ahl: More than anyone else, Ahl seems to have striven to capture every possible facet of the original: the meter, the wordplay, the assonance & alliteration, the meaning… it’s all there. Most must choose between “accurate, but not an object of literary value per se” vs. “poetic & artful, but not very true to the source”; for my money, Ahl has—somehow—managed to have his libum (archive), and eat it too.
-      > Ruden: Sure, sure, it is not the Sacred Hexameter… but it is an extremely faithful rendering—more-so than most—and she still manages word choice finer than Bartsch’s & phrasing more natural than Krisak’s, to my mind’s… ear(?); and, not infrequently, her brevity makes it a smoother & easier read compared to Ahl’s (relative) prolixity.
+      > - Ahl: More than anyone else, Ahl seems to have striven to capture every possible facet of the original: the meter, the wordplay, the assonance & alliteration, the meaning… it’s all there. Most must choose between “accurate, but not an object of literary value per se” vs. “poetic & artful, but not very true to the source”; for my money, Ahl has—somehow—managed to have his libum (archive), and eat it too.
+      > - Ruden: Sure, sure, it is not the Sacred Hexameter… but it is an extremely faithful rendering—more-so than most—and she still manages word choice finer than Bartsch’s & phrasing more natural than Krisak’s, to my mind’s… ear(?); and, not infrequently, her brevity makes it a smoother & easier read compared to Ahl’s (relative) prolixity.
     - [A list of translations](https://foundinantiquity.com/2023/12/05/do-we-have-too-many-english-translations-of-the-aeneid/)
+
+[^5.8]: **Plotinus**: Sixth Ennead
+
+    - [NPR review on the chosen edition](https://ndpr.nd.edu/reviews/the-enneads/)
+      > Although the team whose work it is points out that it is not meant to replace the Loeb translation, it has clear and significant advantages over the latter. First, it is based on a superior Greek text, for it takes into account all the corrections introduced by Henry and Schwyzer in the third volume of their editio minor and in subsequent work. Second, it reports almost all the references listed in the editio minor, while also adding to them a considerable number of cross-references. Third, it is very often more readable than Armstrong's translation, and, being in one volume (without the facing Greek text) rather than in seven, it is much easier to consult.
+
+[^5.10]: **Dante**: The Divine Comedy
+
+    - [Reddits comment on the chosen edition](https://www.reddit.com/r/classicliterature/comments/1j5uit6/comment/mpso4dv/)
+      > - Sayers-Reynolds tries to reproduce Dante's terza rima to varying degrees of success and failure. The successes are superlative, the failures like nails across a board.
+      > - Musa is simple and clear and often has an understated beauty, but his poetry is not very memorable. His words don't linger in the mind.
+      > - Ciardi is perhaps the most popular choice for most people, often gorgeously poetic, but less formally faithful to Dante. He plays too fast and loose for my tastes.
+      > - The Hollanders get the job done well enough, they're "literal" for lack of a better word, at the same time there's enough "music" in their translation as well, so many find it strikes and good balance. However I think most of the music in their translation is owing less to them and more to the fact that they've more or less turned Sinclair/Singleton's prose into verse form, which the Hollanders admit in their introduction. See also Madison Sowell's review of the Hollanders' Paradiso which should be available to read for free online. The Hollanders' notes are extremely detailed and systematic and comprehensive, even overwhelming so, and that's the primary reason I use them.
+      > - Nichols is beautiful. I'd suggest Nichols is something of a Mandelbaum mixed with a Musa. By the way, it's interesting to note not all the translations are done by poets. Yet poets who are also good translators typically capture what good translators alone cannot always capture.
+      > - Mandelbaum's translation of The Divine Comedy is very good. It doesn't use Dante's terza rima scheme except incidentally and when it is natural for him to do so. Nevertheless Mandelbaum captures Dante quite well, I think, and often Mandelbaum does so sublimely and elegantly. All in all, I think Mandelbaum is one of the best English translations in a crowded field.
+      > - Michael Palma. His entire Commedia was only published last year in 2024. I'm working my way through it now. So far, I'm beyond impressed. It may prove to be one of the best translations. Already it has received rave reviews for apparently (mostly) successfully realizing terza rima in English. Of the major English translations I'm aware of, I think only Dorothy Sayers and Robert Pinsky have attempted to fully realize terza rima in English. Ciardi and others have tried a dummy terza rima where the first and third lines rhyme but the second line is blank verse. However, in all of these cases, from Sayers to Pinsky to Ciardi to Nichols and others, I don't think they entirely succeed. Their attempts are valiant, and there are some or many pitch perfect renderings, but overall I'm afraid to say I think they fall short, for their rhymes are by and large uneven and lacking rather than full. They're still fine translations for other reasons, but their terza rima doesn't quite work in the end. I hope Palma truly has succeeded, for that would be quite a feat to say the least!
+    - [Another comparison between versions](https://sites.google.com/site/tolstoytranslations/comparing-works-of-translation/dante/dantes-inferno)
 
 [^5.20]: **Waddington**: The Nature of Life
 
     - Also available in the [Compilation Works from Routledge](https://www.amazon.com/Selected-Works-Waddington-Routledge-Revivals-ebook/dp/B097HYQ8FY)
-      - It is expensive however, so not for the general consumer. I believe those with institutional access can borrow it, and it is also available if you know where to look...
+      - It is expensive however, so not for the general consumer. I believe those with institutional access can borrow it, and it is also available if you know where to look
 
 [^6.2]: **Homer**: The Odyssey
 
