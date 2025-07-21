@@ -260,8 +260,10 @@ date: "Jul 13 2025"
     - [The Divine Comedy - Micahel Palma](https://www.amazon.com/dp/B0CT6HFH8V)
 11. **Harvey**: The Motion of the Heart and Blood
     - [On the Motion of the Heart and Blood in Animals](https://www.amazon.com/Motion-Heart-Blood-Animals-Exercitatio-ebook/dp/B06W9JSZBZ)
-12. **Cervantes**: Don Quixote [Part I]
-13. **Spinoza**: Ethics [Part II]
+12. **Cervantes**: Don Quixote [Part I] [^5.12]
+    - [Don Quixote - Tom Lathrop](https://www.amazon.com/Quixote-Signet-Classics-Cervantes-Saavedra-ebook/dp/B004WB9ZEK)
+13. **Spinoza**: Ethics [Part II] [^5.13]
+    - [Spinoza: Ethics -  Michael Silverthorne](https://www.amazon.com/Spinoza-Geometrical-Cambridge-History-Philosophy-ebook/dp/B07B7N1FZ1)
 14. **Berkeley**: The Principles of Human Knowledge
     - [Gutenberg](https://www.gutenberg.org/ebooks/4723)
 15. **Kant**: Critique of Pure Reason [Transcendental Analytic]
@@ -807,6 +809,17 @@ date: "Jul 13 2025"
       > - Mandelbaum's translation of The Divine Comedy is very good. It doesn't use Dante's terza rima scheme except incidentally and when it is natural for him to do so. Nevertheless Mandelbaum captures Dante quite well, I think, and often Mandelbaum does so sublimely and elegantly. All in all, I think Mandelbaum is one of the best English translations in a crowded field.
       > - Michael Palma. His entire Commedia was only published last year in 2024. I'm working my way through it now. So far, I'm beyond impressed. It may prove to be one of the best translations. Already it has received rave reviews for apparently (mostly) successfully realizing terza rima in English. Of the major English translations I'm aware of, I think only Dorothy Sayers and Robert Pinsky have attempted to fully realize terza rima in English. Ciardi and others have tried a dummy terza rima where the first and third lines rhyme but the second line is blank verse. However, in all of these cases, from Sayers to Pinsky to Ciardi to Nichols and others, I don't think they entirely succeed. Their attempts are valiant, and there are some or many pitch perfect renderings, but overall I'm afraid to say I think they fall short, for their rhymes are by and large uneven and lacking rather than full. They're still fine translations for other reasons, but their terza rima doesn't quite work in the end. I hope Palma truly has succeeded, for that would be quite a feat to say the least!
     - [Another comparison between versions](https://sites.google.com/site/tolstoytranslations/comparing-works-of-translation/dante/dantes-inferno)
+
+[^5.12]: **Cervantes**: Don Quixote
+
+    - [A compilation of translations reviews](https://sites.google.com/site/tolstoytranslations/comparing-works-of-translation/cervantes/don-quixote)
+    - [Welovetranslations recommendation](https://welovetranslations.com/2022/03/28/whats-the-best-translation-of-don-quixote-part-1/)
+    - [Reddit comments](https://www.reddit.com/r/AskLiteraryStudies/comments/q7in1y/best_don_quixote_translation/)
+
+[^5.13]: **Spinoza**: Ethics
+
+    - [NDPR reviews of the edition](https://ndpr.nd.edu/reviews/ethics-proved-in-geometrical-order/)
+    > This critical edition, reportedly more similar to the Van Vloten and Land edition than the more often cited Carl Gebhardt version, benefits in its preparation from the timely discovery in 2010 in the Vatican archives of a copy of Ethics supposedly handwritten by Spinoza's correspondent, Ehrenfried Walther von Tschirnhaus. Silverthorne and Kisner's translation therefore can claim to get us closer to the original manuscript, i.e., one less layer of betrayal.
 
 [^5.20]: **Waddington**: The Nature of Life
 
