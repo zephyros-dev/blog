@@ -159,7 +159,8 @@ date: "Jul 13 2025"
    - [The Annals - J. C. Yardley, Anthony A. Barrett](https://www.amazon.com/Annals-Reigns-Tiberius-Claudius-Classics-ebook/dp/B005RBUKDE)
 9. **St. Thomas Aquinas**: Summa Theologica [Part I-II, QQ 90-97] [^3.9]
    - [The Summa Theologica](https://www.amazon.com/dp/B00LW9IBNG)
-10. **Chaucer**: Troilus and Cressida
+10. **Chaucer**: Troilus and Cressida [^3.10]
+    - [Troilus and Criseyde in Modern Verse - Joseph Glaser](https://www.amazon.com/dp/B00VN80Z7Q)
 11. **Shakespeare**: Macbeth
     - [Standard Ebooks](https://standardebooks.org/ebooks/william-shakespeare/macbeth)
 12. **Milton**: Paradise Lost [^3.12]
@@ -270,7 +271,8 @@ date: "Jul 13 2025"
     - Check [Fourth Year, 16](#fourth-year)
 16. **Darwin**: The Origin of Species [Introduction—Ch. 6, Ch. 15]
     - [Standard Ebooks](https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species)
-17. **Tolstoy**: War and Peace [Book I-VIII]
+17. **Tolstoy**: War and Peace [Book I-VIII] [^5.17]
+    - [War and Peace -  Louise and Aylmer Maude, Amy Mandelker](https://www.amazon.com/War-Peace-Oxford-Worlds-Classics-ebook/dp/B005X3S9J8)
 18. **William James**: Principles of Psychology [Ch. XXVIII]
     - Check [Fourth Year, 19](#fourth-year)
 19. **Dewey**: Experience and Education
@@ -734,6 +736,11 @@ date: "Jul 13 2025"
         > For a more literal rendering of the text, see St. Thomas Aquinas Summa Theologica (translated by the Fathers of the English Dominican Province)
        - The chosen edition matches the one Oxford recommendation. It also has detailed ToC for each part
 
+[^3.10]: **Chaucer**: Troilus and Cressida
+
+    - Check out the [Wikipedia pages](https://en.wikipedia.org/wiki/Troilus_and_Criseyde) for free translations of this work
+    - [Prose translation from Oxford](https://www.amazon.com/dp/B005OQGCQG)
+
 [^3.12]: **Milton**: Paradise Lost
 
     - [Reddit discussions on annotated editions](https://www.reddit.com/r/books/comments/b24d3y/miltons_paradise_lost_norton_critical_edition_or/)
@@ -820,6 +827,11 @@ date: "Jul 13 2025"
 
     - [NDPR reviews of the edition](https://ndpr.nd.edu/reviews/ethics-proved-in-geometrical-order/)
     > This critical edition, reportedly more similar to the Van Vloten and Land edition than the more often cited Carl Gebhardt version, benefits in its preparation from the timely discovery in 2010 in the Vatican archives of a copy of Ethics supposedly handwritten by Spinoza's correspondent, Ehrenfried Walther von Tschirnhaus. Silverthorne and Kisner's translation therefore can claim to get us closer to the original manuscript, i.e., one less layer of betrayal.
+
+[^5.17]: **Tolstoy**: War and Peace
+
+    - [Welovetranslations comparisons of translations](https://welovetranslations.com/2021/08/31/whats-the-best-translation-of-war-and-peace/#translator-11)
+      > My first choice would be the Maude/Mandelker translation. This edition from Oxford is now the most recent, and seems like a good balance between smooth, non-modernized English and text updated to correct errors. It contains notes and other reader aids, and is available as a hardcover, paperback, or ebook. Tolstoy himself approved of the Maude translation. Contains French passages with English in the footnotes.
 
 [^5.20]: **Waddington**: The Nature of Life
 
