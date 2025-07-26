@@ -265,7 +265,7 @@ date: "Jul 13 2025"
     - [Don Quixote - Tom Lathrop](https://www.amazon.com/Quixote-Signet-Classics-Cervantes-Saavedra-ebook/dp/B004WB9ZEK)
 13. **Spinoza**: Ethics [Part II] [^5.13]
     - [Spinoza: Ethics -  Michael Silverthorne](https://www.amazon.com/Spinoza-Geometrical-Cambridge-History-Philosophy-ebook/dp/B07B7N1FZ1)
-14. **Berkeley**: The Principles of Human Knowledge
+14. **Berkeley**: The Principles of Human Knowledge [^5.14]
     - [Gutenberg](https://www.gutenberg.org/ebooks/4723)
 15. **Kant**: Critique of Pure Reason [Transcendental Analytic]
     - Check [Fourth Year, 16](#fourth-year)
@@ -292,10 +292,12 @@ date: "Jul 13 2025"
    - Check [First Year, 1](#first-year)
 4. **Aristotle**: Metaphysics [Book XII] [^1.4]
    - [Metaphysics - C. D. D. Reeve](https://www.amazon.com/Metaphysics-New-Hackett-Aristotle-ebook/dp/B01IGEQHJE)
-5. **Tacitus**: The Histories
+5. **Tacitus**: The Histories [^6.5]
+   - [The Histories - Kenneth Wellesley](https://www.amazon.com/Histories-Penguin-Classics-Tacitus-ebook/dp/B004LLIHH2)
 6. **Plotinus**: Fifth Ennead
    - Check [Fifth Year, 8](#fifth-year)
-7. **St. Augustine**: The City of God [Book XV-XVIII]
+7. **St. Augustine**: The City of God [Book XV-XVIII] [^6.7]
+   - [City of God - Henry Bettenson](https://www.amazon.com/City-God-Penguin-Classics-Augustine-ebook/dp/B002RI9JAA)
 8. **St. Thomas Aquinas**: Summa Theologica [Part I, QQ 1-13]
    - Check [Third Year, 9](#third-year)
 9. **Dante**: The Divine Comedy [Purgatory]
@@ -828,6 +830,10 @@ date: "Jul 13 2025"
     - [NDPR reviews of the edition](https://ndpr.nd.edu/reviews/ethics-proved-in-geometrical-order/)
     > This critical edition, reportedly more similar to the Van Vloten and Land edition than the more often cited Carl Gebhardt version, benefits in its preparation from the timely discovery in 2010 in the Vatican archives of a copy of Ethics supposedly handwritten by Spinoza's correspondent, Ehrenfried Walther von Tschirnhaus. Silverthorne and Kisner's translation therefore can claim to get us closer to the original manuscript, i.e., one less layer of betrayal.
 
+[^5.14]: **Berkeley**: The Principles of Human Knowledge
+
+    - [Annotated editions from Oxford](https://www.amazon.com/Principles-Knowledge-Dialogues-Oxford-Classics-ebook/dp/B006A2INEC)
+
 [^5.17]: **Tolstoy**: War and Peace
 
     - [Welovetranslations comparisons of translations](https://welovetranslations.com/2021/08/31/whats-the-best-translation-of-war-and-peace/#translator-11)
@@ -841,6 +847,18 @@ date: "Jul 13 2025"
 [^6.2]: **Homer**: The Odyssey
 
     - I went with this version for consistency with the translator from The Iliad [^2.1]
+
+[^6.5]: **Tacitus**: The Histories
+
+    - The chosen edition is the only one I can find that has ebook format
+    - Other options for paperback edition includes:
+      - [Everyman's Library](https://www.amazon.com/Annals-Histories-Tacitus-Cornelius/dp/1841593117)
+      - [Oxford](https://www.amazon.com/Histories-Oxford-Worlds-Classics/dp/0199540705)
+
+[^6.7]: **St. Augustine**: The City of God
+
+    - [Readthegreatbooks comparison of different editions](https://www.readthegreatbooks.com/books/st-augustine-city-of-god-best-translation)
+      > What you’re looking for may have quite a bit of weight for which copy of this work you want to grab. For those of us with little prior experience in this sort of work there is Oxford’s Reader’s Guide edition. It does a great job at a scholarly approach to the subject from all different angles. So it may be a good choice for those who ask “so what” when they see City of God. The biggest qualm I have with this one is, it’s only a companion piece, the original text isn’t included. While I do consider this as a good guide to the work, it does have a surprisingly large price tag attached for a companion piece. Next up is the New City Press’ Study Edition. This is a great find for students. It has a solid introduction and some great annotations to boot. There’s only one real hiccup with this one. That being that it is separated into two volumes, while this doesn’t seem bad, for those of us who are students the price on both hasn’t seem to have gone down since it’s release. At least not for a new copy. While price shouldn’t be a dealbreaker, it doesn’t do enough to be separated into two upper priced sections, there’s just options that do more for less. If you’re a higher level student or scholar, the Cambridge University copy is more your speed. It goes heavy into the meaning and context of Augustine’s words and how they relate to the world. It includes a nice translation, solid notes, and an added bibliography and layout of Augustine’s life as well. The drawback of this is it may not be suited for those not already knowledgeable in the area. It has a heavy handed political and historic approach to it all, and that can be a little intimidating. The best of the best of this list is Penguin Classics’ copy. It balances great translation and context from scholars well known for their study of the era. It is the best here for it’s readability. No matter your level in the subject you won’t find this too dense or too watered down.
 
 [^8.1]: **Aristophanes**: The Poet and the Women, The Assemblywomen, Wealth
 
