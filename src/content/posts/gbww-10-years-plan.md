@@ -342,7 +342,8 @@ date: "Jul 13 2025"
    - Check [First Year, 4](#first-year)
 5. **Archimedes**: Measurement of a Circle, The Equilibrium of Planes [Book I], The Sand-Reckoner, On Floating Bodies [Book I]
    - [The Works of Archimedes - Sir Thomas Heath](https://www.amazon.com/Works-Archimedes-Dover-Books-Mathematics-ebook/dp/B00CB2MLCU)
-6. **Epictetus**: Discourses
+6. **Epictetus**: Discourses [^7.6]
+   - [Epictetus: The Complete Works - Robin Waterfield](https://www.amazon.com/dp/B09Z766H35)
 7. **Plotinus**: First Ennead
    - Check [Fifth Year, 8](#fifth-year)
 8. **St. Thomas Aquinas**: Summa Theologica [Part I-II, QQ 1-5]
@@ -360,6 +361,8 @@ date: "Jul 13 2025"
 13. **Spinoza**: Ethics [Part IV-V]
     - Check [Fifth Year, 13](#fifth-year)
 14. **Newton**: Mathematical Principles of Natural Philosophy [Book III, Rules], Optics [Book I, Part I; Book III, Queries]
+    - Mathematical Principles of Natural Philosophy: Check [Fourth Year, 13](#fourth-year)
+    - Opticks: [Gutenberg](https://www.gutenberg.org/ebooks/14725)
 15. **Huygens**: Treatise on Light
     - [Gutenberg](https://www.gutenberg.org/ebooks/14725)
 16. **Kant**: Critique of Practical Reason [^2.18]
@@ -370,7 +373,8 @@ date: "Jul 13 2025"
     - [Gutenberg](https://www.gutenberg.org/ebooks/11224)
 19. **Weber**: Essays in Sociology [Part III]
     - [Essays in Sociology - H.H. Gerth, C. Wright Mills](https://www.routledge.com/From-Max-Weber-Essays-in-Sociology/Weber/p/book/9780415482691)
-20. **Proust**: Swann in Love
+20. **Proust**: Swann in Love [^7.20]
+    - [The Swann Way - Brian Nelson, Adam Watt](https://www.amazon.com/Swann-Way-Oxford-Worlds-Classics-ebook/dp/B0CG4NHGMG)
 21. **Brecht**: Mother Courage and Her Children
     - [Brecht Collected Plays: 5: Life of Galileo; Mother Courage and Her Children -  John Willett, Ralph Manheim](https://www.amazon.com/Brecht-Collected-Plays-Children-Classics-ebook/dp/B00T4AL1KU)
 
@@ -858,7 +862,27 @@ date: "Jul 13 2025"
 [^6.7]: **St. Augustine**: The City of God
 
     - [Readthegreatbooks comparison of different editions](https://www.readthegreatbooks.com/books/st-augustine-city-of-god-best-translation)
-      > What you’re looking for may have quite a bit of weight for which copy of this work you want to grab. For those of us with little prior experience in this sort of work there is Oxford’s Reader’s Guide edition. It does a great job at a scholarly approach to the subject from all different angles. So it may be a good choice for those who ask “so what” when they see City of God. The biggest qualm I have with this one is, it’s only a companion piece, the original text isn’t included. While I do consider this as a good guide to the work, it does have a surprisingly large price tag attached for a companion piece. Next up is the New City Press’ Study Edition. This is a great find for students. It has a solid introduction and some great annotations to boot. There’s only one real hiccup with this one. That being that it is separated into two volumes, while this doesn’t seem bad, for those of us who are students the price on both hasn’t seem to have gone down since it’s release. At least not for a new copy. While price shouldn’t be a dealbreaker, it doesn’t do enough to be separated into two upper priced sections, there’s just options that do more for less. If you’re a higher level student or scholar, the Cambridge University copy is more your speed. It goes heavy into the meaning and context of Augustine’s words and how they relate to the world. It includes a nice translation, solid notes, and an added bibliography and layout of Augustine’s life as well. The drawback of this is it may not be suited for those not already knowledgeable in the area. It has a heavy handed political and historic approach to it all, and that can be a little intimidating. The best of the best of this list is Penguin Classics’ copy. It balances great translation and context from scholars well known for their study of the era. It is the best here for it’s readability. No matter your level in the subject you won’t find this too dense or too watered down.
+      > For those of us with little prior experience in this sort of work there is Oxford’s Reader’s Guide edition. It does a great job at a scholarly approach to the subject from all different angles. So it may be a good choice for those who ask “so what” when they see City of God. The biggest qualm I have with this one is, it’s only a companion piece, the original text isn’t included. While I do consider this as a good guide to the work, it does have a surprisingly large price tag attached for a companion piece. Next up is the New City Press’ Study Edition. This is a great find for students. It has a solid introduction and some great annotations to boot. There’s only one real hiccup with this one. That being that it is separated into two volumes, while this doesn’t seem bad, for those of us who are students the price on both hasn’t seem to have gone down since it’s release. At least not for a new copy. While price shouldn’t be a dealbreaker, it doesn’t do enough to be separated into two upper priced sections, there’s just options that do more for less. If you’re a higher level student or scholar, the Cambridge University copy is more your speed. It goes heavy into the meaning and context of Augustine’s words and how they relate to the world. It includes a nice translation, solid notes, and an added bibliography and layout of Augustine’s life as well. The drawback of this is it may not be suited for those not already knowledgeable in the area. It has a heavy handed political and historic approach to it all, and that can be a little intimidating. The best of the best of this list is Penguin Classics’ copy. It balances great translation and context from scholars well known for their study of the era. It is the best here for it’s readability. No matter your level in the subject you won’t find this too dense or too watered down.
+
+[^7.6]: **Epictetus**: Discourses
+
+    - [Reddit discussions](https://www.reddit.com/r/Stoicism/comments/yrk0e1/looking_for_the_best_translation_of_epictetus/)
+      > These are my own amateurish impressions having read the three main modern translations. Other people may have different responses:
+      > - Robert Dobbin, (2008), Discourses and Selected Writings. Penguin Classics
+      >   - Pros: A clear, efficient translation in modern English
+      >   - Cons: Only contains two-thirds of the Discourses. Dobbin also takes liberties with the text, and is not always fully faithful to Epictetus' words.
+      > - Robin Hard, (2014), Discourses, Fragments, Handbook. Oxford University Press
+      >   - Pros: Rigorously accurate. Perhaps as close to Epictetus' actual words you can get with a translation
+      >   - Cons: The price of this precision is a high word count, which does affect its readability a little
+      > - Robin Waterfield, (2022), The Complete Works: Handbook, Discourses, and Fragments. The University of Chicago Press
+      >   - Pros: Has the clarity and efficiency of Dobbin's translation but is also close to the accuracy of Hard's translation.
+      >   - Cons: More expensive
+
+[^7.20]: **Proust**: Swann in Love
+
+    - [Welovetranslations comparison](https://welovetranslations.com/2024/02/21/whats-the-best-translation-of-swanns-way/)
+    - [Review of the chosen edition](https://www.smh.com.au/culture/books/why-we-just-can-t-forget-marcel-proust-20240212-p5f46p.html)
+    - The chosen edition is only the 1st volume, and the rest are still being translated. For readers who's interested in reading the whole novel, you can consult the Welovetranslations comparisons above
 
 [^8.1]: **Aristophanes**: The Poet and the Women, The Assemblywomen, Wealth
 
