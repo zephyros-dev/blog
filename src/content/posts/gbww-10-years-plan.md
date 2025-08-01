@@ -100,9 +100,9 @@ date: "Jul 13 2025"
 1. **Homer**: The Iliad [^2.1]
    - [The Iliad - Peter Green](https://www.amazon.com/Iliad-New-Translation-Peter-Green-ebook/dp/B00VYC0S8C)
 2. **Aeschylus**: Agamemnon, The Libation Bearers, The Eumenides (a.k.a. Oresteia) [^2.2]
-   - [Aeschylus II: The Oresteia -  David Grene, Richmond Lattimore, Mark Griffith, Glenn W. Most](https://www.amazon.com/Aeschylus-II-Oresteia-Complete-Tragedies-ebook/dp/B00A7BTZUI)
+   - [Aeschylus II - David Grene, Richmond Lattimore, Mark Griffith, Glenn W. Most](https://www.amazon.com/Aeschylus-II-Oresteia-Complete-Tragedies-ebook/dp/B00A7BTZUI)
 3. **Sophocles**: Oedipus the King, Antigone [^2.3]
-   - [Sophocles I: The Theban Plays: Antigone, Oedipus the King, Oedipus at Colonus](https://www.amazon.com/Sophocles-Antigone-Oedipus-Complete-Tragedies-ebook/dp/B00A7BU278)
+   - [Sophocles I - Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Sophocles-Antigone-Oedipus-Complete-Tragedies-ebook/dp/B00A7BU278)
 4. **Herodotus**: The History [Book I-II] [^2.4]
    - [The Histories - Robin Waterfield](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
 5. **Plato**: Meno
@@ -112,7 +112,7 @@ date: "Jul 13 2025"
 7. **Aristotle**: Nicomachean Ethics [Book II; Book III, Ch. 5-12; Book VI, Ch. 8-13]
    - Check [First Year, 4](#first-year)
 8. **Nicomachus**: Introduction to Arithmetic
-   - [A translation from University of Malta factulty](https://staff.um.edu.mt/jmus1/Nicomachus.pdf)
+   - [A translation from University of Malta faculty](https://staff.um.edu.mt/jmus1/Nicomachus.pdf)
 9. **Lucretius**: On the Nature of Things [Book I-IV] [^2.9]
     - [On the Nature of the Universe - Ronald Melville](https://www.amazon.com/Nature-Universe-Oxford-Worlds-Classics-ebook/dp/B006QV7Z6O)
 10. **Marcus Aurelius**: Meditations [^2.10]
@@ -158,7 +158,7 @@ date: "Jul 13 2025"
 8. **Tacitus**: The Annals [^3.8]
    - [The Annals - J. C. Yardley, Anthony A. Barrett](https://www.amazon.com/Annals-Reigns-Tiberius-Claudius-Classics-ebook/dp/B005RBUKDE)
 9. **St. Thomas Aquinas**: Summa Theologica [Part I-II, QQ 90-97] [^3.9]
-   - [The Summa Theologica](https://www.amazon.com/dp/B00LW9IBNG)
+   - [The Summa Theologica - Fathers of the English Dominican Province](https://www.amazon.com/dp/B00LW9IBNG)
 10. **Chaucer**: Troilus and Cressida [^3.10]
     - [Troilus and Criseyde in Modern Verse - Joseph Glaser](https://www.amazon.com/dp/B00VN80Z7Q)
 11. **Shakespeare**: Macbeth
@@ -183,14 +183,14 @@ date: "Jul 13 2025"
 20. **Lévi-Strauss**: Structural Anthropology [Chapters I-VI, IX-XII, XV, XVII] [^3.20]
     - [Structural Anthropology](https://www.amazon.com/Structural-Anthropology-Claude-Levi-strauss-ebook/dp/B009W73ZEU)
 21. **Poincaré**: Science and Hypothesis [Part I – II]
-    - [Science and Hypothesis: The Complete Text - David J. Stump, Mélanie Frappier, Andrea Smith](https://www.amazon.com/Science-Hypothesis-Complete-Henri-Poincar%C3%A9-ebook/dp/B075F1Y9XN)
+    - [Science and Hypothesis - David J. Stump, Mélanie Frappier, Andrea Smith](https://www.amazon.com/Science-Hypothesis-Complete-Henri-Poincar%C3%A9-ebook/dp/B075F1Y9XN)
 
 ### Fourth Year
 
 1. **Euripides**: Medea, Hippolytus, Trojan Women, The Bacchantes [^2.2]
-   - Medea, Hippolytus: [Euripides I](https://www.amazon.com/Euripides-Alcestis-Children-Hippolytus-Tragedies-ebook/dp/B00C3X7KR8)
-   - Trojan Women: [Euripides III](https://www.amazon.com/Euripides-III-Heracles-Iphigenia-Tragedies-ebook/dp/B00A7BTZXU)
-   - The Bacchantes: [Euripides V](https://www.amazon.com/Euripides-Bacchae-Iphigenia-Complete-Tragedies-ebook/dp/B00A7BU016)
+   - Medea, Hippolytus: [Euripides I -  Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-Alcestis-Children-Hippolytus-Tragedies-ebook/dp/B00C3X7KR8)
+   - Trojan Women: [Euripides III -  Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-III-Heracles-Iphigenia-Tragedies-ebook/dp/B00A7BTZXU)
+   - The Bacchantes: [Euripides V -  Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-Bacchae-Iphigenia-Complete-Tragedies-ebook/dp/B00A7BU016)
 2. **Plato**: Republic [Book VI-VII]
    - Check [First Year, 1](#first-year)
 3. **Plato**: Theaetetus
@@ -264,7 +264,7 @@ date: "Jul 13 2025"
 12. **Cervantes**: Don Quixote [Part I] [^5.12]
     - [Don Quixote - Tom Lathrop](https://www.amazon.com/Quixote-Signet-Classics-Cervantes-Saavedra-ebook/dp/B004WB9ZEK)
 13. **Spinoza**: Ethics [Part II] [^5.13]
-    - [Spinoza: Ethics -  Michael Silverthorne](https://www.amazon.com/Spinoza-Geometrical-Cambridge-History-Philosophy-ebook/dp/B07B7N1FZ1)
+    - [Spinoza: Ethics - Michael Silverthorne](https://www.amazon.com/Spinoza-Geometrical-Cambridge-History-Philosophy-ebook/dp/B07B7N1FZ1)
 14. **Berkeley**: The Principles of Human Knowledge [^5.14]
     - [Gutenberg](https://www.gutenberg.org/ebooks/4723)
 15. **Kant**: Critique of Pure Reason [Transcendental Analytic]
@@ -272,7 +272,7 @@ date: "Jul 13 2025"
 16. **Darwin**: The Origin of Species [Introduction—Ch. 6, Ch. 15]
     - [Standard Ebooks](https://standardebooks.org/ebooks/charles-darwin/the-origin-of-species)
 17. **Tolstoy**: War and Peace [Book I-VIII] [^5.17]
-    - [War and Peace -  Louise and Aylmer Maude, Amy Mandelker](https://www.amazon.com/War-Peace-Oxford-Worlds-Classics-ebook/dp/B005X3S9J8)
+    - [War and Peace - Louise and Aylmer Maude, Amy Mandelker](https://www.amazon.com/War-Peace-Oxford-Worlds-Classics-ebook/dp/B005X3S9J8)
 18. **William James**: Principles of Psychology [Ch. XXVIII]
     - Check [Fourth Year, 19](#fourth-year)
 19. **Dewey**: Experience and Education
@@ -320,7 +320,7 @@ date: "Jul 13 2025"
 16. **Kant**: Critique of Pure Reason [Transcendental Dialectic]
     - Check [Fifth Year, 15](#fifth-year)
 17. **Hegel**: Philosophy of History [Introduction]
-    - [The Philosophy of History -  J. Sibree](https://www.amazon.com/Philosophy-History-Dover-Philosophical-Classics-ebook/dp/B00A73AAOG)
+    - [The Philosophy of History - J. Sibree](https://www.amazon.com/Philosophy-History-Dover-Philosophical-Classics-ebook/dp/B00A73AAOG)
 18. **Kierkegaard**: Fear and Trembling
     - [Fear and Trembling - Alastair Hannay](https://www.amazon.com/Fear-Trembling-Dialectical-Johannes-Silentio-ebook/dp/B002RI97SO)
 19. **Tolstoy**: War and Peace [Book IX-XV, Epilogues]
@@ -383,14 +383,15 @@ date: "Jul 13 2025"
 1. **Aristophanes**: The Poet and the Women, The Assemblywomen, Wealth [^8.1]
    - The Poet and the Women (Women at the Thesmophoria): [Lysistrata, Women at the Thesmophoria, Frogs - Diane Arnson Svarlien](https://www.amazon.com/Lysistrata-Women-Thesmophoria-Hackett-Classics-ebook/dp/B0DGNC6FYR)
    - The Assemblywomen: Check [Year 1, 2](#first-year)
-   - Wealth: [The Birds and Other Plays -  David Barrett, Alan H. Sommerstein](https://www.amazon.com/dp/B002RI9AJU)
+   - Wealth: [The Birds and Other Plays - David Barrett, Alan H. Sommerstein](https://www.amazon.com/dp/B002RI9AJU)
 2. **Plato**: Gorgias
    - Check [First Year, 1](#first-year)
 3. **Aristotle**: Nicomachean Ethics [Book V]
    - Check [First Year, 4](#first-year)
 4. **Aristotle**: Rhetoric [Book I, Ch. 1—Book II, Ch. 1; Book II, Ch. 20—Book III, Ch. 1; Book III, Ch. 13-19] [^1.4]
    - [Rhetoric - C. D. C. Reeve](https://www.amazon.com/Rhetoric-New-Hackett-Aristotle-ebook/dp/B07KJX7F31)
-5. **St. Augustine**: On Christian Doctrine
+5. **St. Augustine**: On Christian Doctrine [^8.5]
+   - [On Christian Doctrine - J. F. Shaw](https://ccel.org/ccel/augustine/doctrine/doctrine.)
 6. **Hobbes**: Leviathan [Part II]
    - Check [Second Year, 14](#second-year)
 7. **Shakespeare**: Othello, King Lear
@@ -572,8 +573,10 @@ date: "Jul 13 2025"
 
 [^1.16]: The Declaration of Independence, The Constitution of the United States, The Federalist
 
-    - This edition has all the work in a single place.
-    - The Federalist Papers alone is also available in [Standard Ebooks](https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers)
+    - I picked this edition out of convenience since it has all the work in a single book, but these works can be easily found online
+      - [The Declaration of Independence](https://www.archives.gov/founding-docs/declaration-transcript)
+      - [The Constitution of the United States](https://www.archives.gov/founding-docs/constitution-transcript)
+      - [The Federalist Papers in Standard Ebooks](https://standardebooks.org/ebooks/alexander-hamilton_john-jay_james-madison/the-federalist-papers)
 
 [^1.18]: **Tocqueville**: Democracy in America
 
@@ -890,6 +893,10 @@ date: "Jul 13 2025"
     - There's also [an older edition](https://www.amazon.com/Aristophanes-translation-introduction-Oxford-Classics-ebook/dp/B018J13P9E) with [good review](https://bmcr.brynmawr.edu/2016/2016.05.46), however at 130$ the price is too steep to be considered
       - There's also [another edition from Penguin](https://www.amazon.com/Frogs-Other-Plays-Penguin-Classics-ebook/dp/B002RI9LLM)
     - For *Wealth*, it is the only digital edition from reputable publisher that I can find
+
+[^8.5]: **St. Augustine**: On Christian Doctrine
+
+    - For paperback user, you can also consult [a more recent translation by R.P. H. Green](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632)
 
 [^9.19]: **Veblen**: The Theory of the Leisure Class
 
