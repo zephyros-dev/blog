@@ -382,7 +382,7 @@ date: "Jul 13 2025"
 
 1. **Aristophanes**: The Poet and the Women, The Assemblywomen, Wealth [^8.1]
    - The Poet and the Women (Women at the Thesmophoria): [Lysistrata, Women at the Thesmophoria, Frogs - Diane Arnson Svarlien](https://www.amazon.com/Lysistrata-Women-Thesmophoria-Hackett-Classics-ebook/dp/B0DGNC6FYR)
-   - The Assemblywomen: Check [Year 1, 2](#first-year)
+   - The Assemblywomen: Check [First Year, 2](#first-year)
    - Wealth: [The Birds and Other Plays - David Barrett, Alan H. Sommerstein](https://www.amazon.com/dp/B002RI9AJU)
 2. **Plato**: Gorgias
    - Check [First Year, 1](#first-year)
@@ -443,7 +443,7 @@ date: "Jul 13 2025"
 8. **Descartes**: Rules for the Direction of the Mind [^4.12]
    - [The Philosophical Writings of Descartes: Volume 1 - John Cottingham, Robert Stoothoff, Dugald Murdoch](https://www.amazon.com/Philosophical-Writings-Descartes-1-ebook/dp/B00D2WQ5FW)
 9. **Descartes**: Geometry
-   - This section is in [Year 4, 12](#fourth-year)
+   - This section is in [Fourth Year, 12](#fourth-year)
 10. **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids, On Geometrical Demonstration
 11. **Molière**: Tartuffe
     - [The Misanthrope, Tartuffe, and Other Plays - Maya Slater](https://www.amazon.com/dp/B0077R8S9Y)
