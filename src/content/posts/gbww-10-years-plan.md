@@ -905,7 +905,7 @@ date: "Jul 13 2025"
 
 [^8.9]: **Descartes**: Meditations on the First Philosophy
 
-    - Since I'm already using John Cottingham translation[^4.12], I decided to again go with his translation here for consistency
+    - Since I'm already using John Cottingham translation [^4.12], I decided to again go with his translation here for consistency
 
 [^8.15]: **Marx**: Capital
 
