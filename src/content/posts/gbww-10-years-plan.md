@@ -147,7 +147,7 @@ date: "Jul 13 2025"
 2. **Herodotus**: The History [Book VII-IX]
    - Check [First Year, 4](#first-year)
 3. **Thucydides**: The History of the Peloponnesian War [Book I-II, V] [^3.3]
-   - [Thucydides: The War of the Peloponnesians and the Athenians - Jeremy Mynott](https://www.amazon.com/Thucydides-Cambridge-History-Political-Thought-ebook/dp/B00B9DFAH0)
+   - [The War of the Peloponnesians and the Athenians - Jeremy Mynott](https://www.amazon.com/Thucydides-Cambridge-History-Political-Thought-ebook/dp/B00B9DFAH0)
 4. **Plato**: Statesman
    - Check [First Year, 1](#first-year)
 5. **Aristotle**: On Interpretation [Ch. 1-10] [^3.5]
@@ -398,7 +398,9 @@ date: "Jul 13 2025"
    - Othello: [Standard Ebooks](https://standardebooks.org/ebooks/william-shakespeare/othello)
    - King Lear: [Standard Ebooks](https://standardebooks.org/ebooks/william-shakespeare/king-lear)
 8. **Bacon**: Advancement of Learning [Book I, Ch. 1—Book II, Ch. 11]
-9. **Descartes**: Meditations on the First Philosophy
+   - Check [Fourth Year, 11](#fourth-year)
+9. **Descartes**: Meditations on the First Philosophy [^8.9]
+   - [Meditations on First Philosophy - John Cottingham](https://www.amazon.com/Descartes-Meditations-Philosophy-Selections-Objections-ebook/dp/B01N1ZP5JW)
 10. **Spinoza**: Ethics [Part III]
     - Check [Fifth Year, 13](#fifth-year)
 11. **Locke**: A Letter Concerning Toleration
@@ -409,7 +411,8 @@ date: "Jul 13 2025"
     - Check [First Year, 17](#first-year)
 14. **Boswell**: The Life of Samuel Johnson
     - [Gutenberg](https://www.gutenberg.org/ebooks/1564)
-15. **Marx**: Capital [Prefaces, Part I-II]
+15. **Marx**: Capital [Prefaces, Part I-II] [^8.15]
+    - [Capital - Paul Reitter](https://www.amazon.com/Capital-Critique-Political-Economy-1-ebook/dp/B0CZGMCVWF)
 16. **Goethe**: Faust [Part I]
 17. **William James**: Principles of Psychology [Ch. VIII-X]
     - Check [Fourth Year, 19](#fourth-year)
@@ -437,7 +440,8 @@ date: "Jul 13 2025"
    - Check [Third Year, 9](#third-year)
 7. **Gilbert**: On the Loadstone
    - [Gutenberg](https://gutenberg.org/ebooks/33810)
-8. **Descartes**: Rules for the Direction of the Mind
+8. **Descartes**: Rules for the Direction of the Mind [^4.12]
+   - [The Philosophical Writings of Descartes: Volume 1 - John Cottingham, Robert Stoothoff, Dugald Murdoch](https://www.amazon.com/Philosophical-Writings-Descartes-1-ebook/dp/B00D2WQ5FW)
 9. **Descartes**: Geometry
    - This section is in [Year 4, 12](#fourth-year)
 10. **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids, On Geometrical Demonstration
@@ -446,7 +450,8 @@ date: "Jul 13 2025"
 12. **Montesquieu**: The Spirit of Laws [Book I-V, VIII, XI-XII]
     - [The Spirit of the Laws](https://www.amazon.com/Montesquieu-Cambridge-History-Political-Thought-ebook/dp/B00E3URAUG)
 13. **Faraday**: Experimental Researches in Electricity [Series I-II], A Speculation Touching Electric Conduction and the Nature of Matter
-    - [Gutenberg](https://gutenberg.org/ebooks/14986)
+    - Experimental Researches in Electricity: [Gutenberg](https://gutenberg.org/ebooks/14986)
+    - A Speculation Touching Electric Conduction and the Nature of Matter: [Scanned PDF](https://web.archive.org/web/20231031080234/https://zenodo.org/records/1612380/files/article.pdf)
 14. **Hegel**: Philosophy of Right [Part III]
 15. **Austen**: Emma
     - [Standard Ebooks](https://standardebooks.org/ebooks/jane-austen/emma)
@@ -496,8 +501,8 @@ date: "Jul 13 2025"
     - Check [Eighth Year, 16](#eighth-year)
 15. **Darwin**: The Descent of Man [Part I; Part III, Ch. 21] [^10.15]
     - [Gutenberg](https://www.gutenberg.org/ebooks/2300)
-16. **Marx**: Capital [Part VII-VIII]
-    - [Check Eighth Year, 15](#eighth-year)
+16. **Marx**: Capital [Part VII-VIII] [^10.16]
+    - [Check Eighth Year, 15, along with the footnote of this entry](#eighth-year)
 17. **William James**: Principles of Psychology [Ch. I, V-VII]
     - Check [Fourth Year, 19](#fourth-year)
 18. **Freud**: A General Introduction to Psycho-Analysis
@@ -896,7 +901,17 @@ date: "Jul 13 2025"
 
 [^8.5]: **St. Augustine**: On Christian Doctrine
 
-    - For paperback user, you can also consult [a more recent translation by R.P. H. Green](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632)
+    - For paperback user, you can also consult [a more recent translation by R. P. H. Green](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632)
+
+[^8.9]: **Descartes**: Meditations on the First Philosophy
+
+    - Since I'm already using John Cottingham translation[^4.12], I decided to again go with his translation here for consistency
+
+[^8.15]: **Marx**: Capital
+
+    - [Review of the chosen edition](https://openlettersreview.com/posts/capital-by-karl-marx-translated-by-paul-reitter)
+    - [An interview with the translator](https://www.jhiblog.org/2024/09/10/the-regime-of-capital-an-interview-with-paul-north-and-paul-reitter-on-their-new-edition-of-karl-marxs-capital-vol-1/)
+    - The chosen edition only has Volume 1 translated so far, but all of the reading in the plan only includes Volume 1, with the exception that I shall mention in [^10.16]
 
 [^9.19]: **Veblen**: The Theory of the Leisure Class
 
@@ -907,3 +922,8 @@ date: "Jul 13 2025"
     - [Annotated edtion from Oxford](https://www.amazon.com/dp/B005EEHMJ4)
 
 [^10.15]: **Darwin**: The Descent of Man
+
+[^10.16]: **Marx**: Capital
+
+    - The chosen edition only goes to Part VII, which is missing part VIII from the reading plan. Here you have 2 choices: skipping part VIII, or get the [Penguin edition](https://www.amazon.com/dp/B002XHNMN0) which contains part VIII
+    - My choice went to Paul Reitter translation even though it is incomplete for the Reading plan, since I prioritize the translation quality above all else. For completionist I think you could get the Penguin edition alone
