@@ -50,13 +50,13 @@ date: "Jul 13 2025"
 ### First Year
 
 1. **Plato**: Apology, Crito [^1.1]
-   - [Plato: Complete Works -  John M. Cooper, D. S. Hutchinson](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
+   - [Plato: Complete Works - John M. Cooper, D. S. Hutchinson](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
 2. **Aristophanes**: The Clouds, Lysistrata [^1.2]
    - [Aristophanes: Four Plays: Clouds, Birds, Lysistrata, Women of the Assembly - Aaron Poochigian](https://www.amazon.com/Aristophanes-Plays-Clouds-Lysistrata-Assembly-ebook/dp/B08D135W2S)
 3. **Plato**: Republic [Book I-II]
    - Check [First Year, 1](#first-year)
 4. **Aristotle**: Nicomachean Ethics [Book I] [^1.4]
-   - [Nicomachean Ethics 2nd Edition -  C. D. C. Reeve](https://www.amazon.com/Nicomachean-Ethics-Aristotle-ebook/dp/B0CQN6RHBR)
+   - [Nicomachean Ethics 2nd Edition - C. D. C. Reeve](https://www.amazon.com/Nicomachean-Ethics-Aristotle-ebook/dp/B0CQN6RHBR)
 5. **Aristotle**: Politics [Book I] [^1.5]
    - [Politics: A New Translation - C. D. C. Reeve](https://www.amazon.com/Politics-New-Translation-Hackett-Aristotle-ebook/dp/B06ZYLDDJ8)
 6. **Plutarch**: The Lives of the Noble Grecians and Romans [Lycurgus, Numa Pompilius, Lycurgus and Numa Compared, Alexander, Caesar] [^1.6]
@@ -188,9 +188,9 @@ date: "Jul 13 2025"
 ### Fourth Year
 
 1. **Euripides**: Medea, Hippolytus, Trojan Women, The Bacchantes [^2.2]
-   - Medea, Hippolytus: [Euripides I -  Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-Alcestis-Children-Hippolytus-Tragedies-ebook/dp/B00C3X7KR8)
-   - Trojan Women: [Euripides III -  Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-III-Heracles-Iphigenia-Tragedies-ebook/dp/B00A7BTZXU)
-   - The Bacchantes: [Euripides V -  Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-Bacchae-Iphigenia-Complete-Tragedies-ebook/dp/B00A7BU016)
+   - Medea, Hippolytus: [Euripides I - Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-Alcestis-Children-Hippolytus-Tragedies-ebook/dp/B00C3X7KR8)
+   - Trojan Women: [Euripides III - Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-III-Heracles-Iphigenia-Tragedies-ebook/dp/B00A7BTZXU)
+   - The Bacchantes: [Euripides V - Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/Euripides-Bacchae-Iphigenia-Complete-Tragedies-ebook/dp/B00A7BU016)
 2. **Plato**: Republic [Book VI-VII]
    - Check [First Year, 1](#first-year)
 3. **Plato**: Theaetetus
@@ -258,7 +258,7 @@ date: "Jul 13 2025"
 9. **St. Thomas Aquinas**: Summa Theologica [Part I, QQ 75-76, 78-79]
    - Check [Third Year, 9](#third-year)
 10. **Dante**: The Divine Comedy [Inferno] [^5.10]
-    - [The Divine Comedy - Micahel Palma](https://www.amazon.com/dp/B0CT6HFH8V)
+    - [The Divine Comedy - Michael Palma](https://www.amazon.com/dp/B0CT6HFH8V)
 11. **Harvey**: The Motion of the Heart and Blood
     - [On the Motion of the Heart and Blood in Animals](https://www.amazon.com/Motion-Heart-Blood-Animals-Exercitatio-ebook/dp/B06W9JSZBZ)
 12. **Cervantes**: Don Quixote [Part I] [^5.12]
@@ -376,7 +376,7 @@ date: "Jul 13 2025"
 20. **Proust**: Swann in Love [^7.20]
     - [The Swann Way - Brian Nelson, Adam Watt](https://www.amazon.com/Swann-Way-Oxford-Worlds-Classics-ebook/dp/B0CG4NHGMG)
 21. **Brecht**: Mother Courage and Her Children
-    - [Brecht Collected Plays: 5: Life of Galileo; Mother Courage and Her Children -  John Willett, Ralph Manheim](https://www.amazon.com/Brecht-Collected-Plays-Children-Classics-ebook/dp/B00T4AL1KU)
+    - [Brecht Collected Plays: 5: Life of Galileo; Mother Courage and Her Children - John Willett, Ralph Manheim](https://www.amazon.com/Brecht-Collected-Plays-Children-Classics-ebook/dp/B00T4AL1KU)
 
 ### Eighth Year
 
@@ -413,7 +413,8 @@ date: "Jul 13 2025"
     - [Gutenberg](https://www.gutenberg.org/ebooks/1564)
 15. **Marx**: Capital [Prefaces, Part I-II] [^8.15]
     - [Capital - Paul Reitter](https://www.amazon.com/Capital-Critique-Political-Economy-1-ebook/dp/B0CZGMCVWF)
-16. **Goethe**: Faust [Part I]
+16. **Goethe**: Faust [Part I] [^8.16]
+    - [Faust: Part One - David Luke](https://www.amazon.com/Faust-Part-Oxford-Worlds-Classics-ebook/dp/B00A7LN518?)
 17. **William James**: Principles of Psychology [Ch. VIII-X]
     - Check [Fourth Year, 19](#fourth-year)
 18. **Barth**: The Word of God and the Word of Man [I-IV]
@@ -422,7 +423,8 @@ date: "Jul 13 2025"
     - [An Introduction to Metaphysics](https://www.amazon.com/Creative-Mind-Introduction-Metaphysics-Philosophy-ebook/dp/B00A735BW2)
 20. **Hardy**: A Mathematician's Apology
     - [A Mathematician's Apology - C. P. Snow](https://www.amazon.com/Mathematicians-Apology-Canto-Classics-ebook/dp/B00E3UR83A)
-21. **Kafka**: The Metamorphosis
+21. **Kafka**: The Metamorphosis [^8.21]
+    - [The Metamorphosis - Joyce Crick](https://www.amazon.com/dp/B003HD2L18)
 
 ### Ninth Year
 
@@ -452,7 +454,8 @@ date: "Jul 13 2025"
 13. **Faraday**: Experimental Researches in Electricity [Series I-II], A Speculation Touching Electric Conduction and the Nature of Matter
     - Experimental Researches in Electricity: [Gutenberg](https://gutenberg.org/ebooks/14986)
     - A Speculation Touching Electric Conduction and the Nature of Matter: [Scanned PDF](https://web.archive.org/web/20231031080234/https://zenodo.org/records/1612380/files/article.pdf)
-14. **Hegel**: Philosophy of Right [Part III]
+14. **Hegel**: Philosophy of Right [Part III] [^9.14]
+    - [Philosophy of Right - Alan White](https://www.amazon.com/review/R1LBFR9U2IH40U)
 15. **Austen**: Emma
     - [Standard Ebooks](https://standardebooks.org/ebooks/jane-austen/emma)
 16. **Marx**: Capital [Part III-IV]
@@ -471,7 +474,7 @@ date: "Jul 13 2025"
 ### Tenth Year
 
 1. **Sophocles**: Ajax, Electra [^2.2]
-   - [Sophocles II -  Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/dp/B00C3X7KTQ)
+   - [Sophocles II - Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/dp/B00C3X7KTQ)
 2. **Plato**: Timaeus
    - Check [First Year, 1](#first-year)
 3. **Aristotle**: On the Parts of Animals [Book I, Ch. 1—Book II, Ch. 1], On the Generation of Animals [Book I, Ch. 1, 17-18, 20-23] [^1.4]
@@ -497,12 +500,12 @@ date: "Jul 13 2025"
     - Check [Fifth Year, 12](#fifth-year)
 13. **Kant**: Critique of Judgement [Critique of Teleological Judgement]
     - Check [Seventh Year, 17](#seventh-year)
-14. **Goethe**: Faust [Part II]
-    - Check [Eighth Year, 16](#eighth-year)
+14. **Goethe**: Faust [Part II] [^8.16]
+    - [Faust: Part Two - David Luke](https://www.amazon.com/Faust-Part-Oxford-Worlds-Classics-ebook/dp/B00ARI2G5C/146-3454157-2800607)
 15. **Darwin**: The Descent of Man [Part I; Part III, Ch. 21] [^10.15]
     - [Gutenberg](https://www.gutenberg.org/ebooks/2300)
-16. **Marx**: Capital [Part VII-VIII] [^10.16]
-    - [Check Eighth Year, 15, along with the footnote of this entry](#eighth-year)
+16. **Marx**: Capital [Part VII-VIII]
+    - [Check Eighth Year, 15](#eighth-year)
 17. **William James**: Principles of Psychology [Ch. I, V-VII]
     - Check [Fourth Year, 19](#fourth-year)
 18. **Freud**: A General Introduction to Psycho-Analysis
@@ -911,7 +914,39 @@ date: "Jul 13 2025"
 
     - [Review of the chosen edition](https://openlettersreview.com/posts/capital-by-karl-marx-translated-by-paul-reitter)
     - [An interview with the translator](https://www.jhiblog.org/2024/09/10/the-regime-of-capital-an-interview-with-paul-north-and-paul-reitter-on-their-new-edition-of-karl-marxs-capital-vol-1/)
-    - The chosen edition only has Volume 1 translated so far, but all of the reading in the plan only includes Volume 1, with the exception that I shall mention in [^10.16]
+    - The chosen edition only has Volume 1 translated so far, but all of the reading in the plan only includes Volume 1
+    - In Volume 1 however, the chosen edition only goes to Part VII, which is missing part VIII from the reading plan. Here you have 2 choices: skipping part VIII, or get the [Penguin edition](https://www.amazon.com/dp/B002XHNMN0) which contains part VIII
+    - My choice went to Paul Reitter translation even though it is incomplete for the Reading plan, since I prioritize the translation quality above all else. For completionist I think you could get the Penguin edition alone
+
+[^8.16]: **Goethe**: Faust
+
+    - [Brief review from EUP for David Luke translation of Part II](https://www.euppublishing.com/doi/epdf/10.3366/tal.1996.5.2.237)
+      > David Luke's new translation of Goethe's 'inner fairytale' is itself destined to become a classic. The success of his translation of Faust I, which won the European Poetry Translation Prize in 1989, seems to have been repeated here. This volume includes an authoritative eighty-page introduction, an index of mythological figures, notes to the text, and a handy map of Greece for Acts II and III. Luke has achieved an eminently readable, poetic translation which echoes the varying metres of the original. As he himself points out in the introduction, Goethe very much intended the metrical schemes to achieve symbolic significance, which makes the translator's task all the harder.
+    - There are a other few edition worth mentioning for this work:
+      - [Faust: A Tragedy in Two Parts - John R. Williams](https://www.amazon.com/Faust-Tragedy-Wordsworth-Classics-Literature/dp/1840221151)
+        - [Review from EUP](https://www.euppublishing.com/doi/full/10.3366/tal.2011.0011)
+          > Luke writes in a modernized Shakespearean idiom that is elegant and rich in irony. Constantine writes as a contemporary poet, with concision and a rugged, flinty strangeness that comes of taking Goethe's metaphors literally and often has a nicely foreignizing effect. Without resorting to poeticisms, he manages to make his Faust sound like real poetry from another time and place. Williams’ translation is the most lucid of the three, and in this respect he reproduces most accurately one of the chief modes of Goethe's poem
+        - This edition is not available in ebook form however, so I did not choose this one
+    - Faust - David Constantine: [Part I](<https://www.amazon.com/Faust-Part-I-Goethe-ebook/dp/B002RI9X38>), [Part II](https://www.amazon.com/Faust-Part-II-Goethe-ebook/dp/B004LLIHCW)
+      - [Review from EUP](https://www.euppublishing.com/doi/full/10.3366/tal.2011.0010)
+      - [Some thoughts on Constantine translation from Reddit](https://www.reddit.com/r/German/comments/lg5xk2/thoughts_on_the_english_translations_of_goethes/)
+
+[^8.21]: **Kafka**: The Metamorphosis
+
+    - [EUP review of the chosen edition](https://www.euppublishing.com/doi/full/10.3366/E0968136109000843)
+    - Check out the *Translations of the opening sentence* of [Wikipedia page](https://en.wikipedia.org/wiki/The_Metamorphosis) for a list of translations
+    - [Guardian articles on various translations of the opening sentences](https://www.theguardian.com/books/booksblog/2015/may/13/kafka-metamorphosis-translations)
+
+[^9.14]: **Hegel**: Philosophy of Right
+
+    - [Review of the author in comparison to the chosen edition](https://www.amazon.com/review/R1LBFR9U2IH40U)
+      > This edition (Cambridge) is an enormous improvement over the Knox version published by Oxford, but I have done a third version that I hope you'll consider. Three of its advantages: (1) unlike Wood, I don't proceed on the assumption that Hegel's dialectical logic is nonsensical, so I attempt to clarify it, both in the translation and in notes; (2) additional materials from student transcriptions of Hegel's lectures are included with the sections they relate to, not in endnotes; (3) my edition has no endnotes, only footnotes, so readers don't have to waste time flipping to the end of the book to find what is often irrelevant and distracting information.
+    - [Review of the chosen edition](https://www.amazon.com/gp/customer-reviews/R3OEKE4ONYC99X?ie=UTF8)
+      > "White's edition of Hegel's monumental work on politics is excellent: useful to first-time readers and specialists alike - - Peter Kalkavage, St. John's College
+    - I chose this edition over the Cambridge edition below due to the recommendation above from a St. John's College professor, which is known for their Great Books program, and as such it is similar to the goal of the Reading Plan
+    - [Elements of the Philosophy of Right -  Allen W. Wood, H. B. Nisbet](https://www.amazon.com/dp/B00D2WPUGM)
+      - [Review from NDPR](https://ndpr.nd.edu/reviews/hegel-s-philosophy-of-right/)
+      - A [review from Amazon](https://www.amazon.co.uk/gp/customer-reviews/R3APK3Y0WJJN0I?ie=UTF8) also praises this translation over the [older one from Oxford](https://www.amazon.com/Outlines-Philosophy-Oxford-Worlds-Classics-ebook/dp/B005RBUCG4?crid=KL0OD61VDGC6)
 
 [^9.19]: **Veblen**: The Theory of the Leisure Class
 
@@ -922,8 +957,3 @@ date: "Jul 13 2025"
     - [Annotated edtion from Oxford](https://www.amazon.com/dp/B005EEHMJ4)
 
 [^10.15]: **Darwin**: The Descent of Man
-
-[^10.16]: **Marx**: Capital
-
-    - The chosen edition only goes to Part VII, which is missing part VIII from the reading plan. Here you have 2 choices: skipping part VIII, or get the [Penguin edition](https://www.amazon.com/dp/B002XHNMN0) which contains part VIII
-    - My choice went to Paul Reitter translation even though it is incomplete for the Reading plan, since I prioritize the translation quality above all else. For completionist I think you could get the Penguin edition alone
