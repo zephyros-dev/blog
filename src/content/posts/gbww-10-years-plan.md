@@ -934,7 +934,7 @@ date: "Jul 13 2025"
 [^8.21]: **Kafka**: The Metamorphosis
 
     - [EUP review of the chosen edition](https://www.euppublishing.com/doi/full/10.3366/E0968136109000843)
-    - Check out the *Translations of the opening sentence* of [Wikipedia page](https://en.wikipedia.org/wiki/The_Metamorphosis) for a list of translations
+    - Check out the *Translations of the opening sentence* section of [Wikipedia page](https://en.wikipedia.org/wiki/The_Metamorphosis) for a list of translations
     - [Guardian articles on various translations of the opening sentences](https://www.theguardian.com/books/booksblog/2015/may/13/kafka-metamorphosis-translations)
 
 [^9.14]: **Hegel**: Philosophy of Right
@@ -942,7 +942,7 @@ date: "Jul 13 2025"
     - [Review of the author in comparison to the chosen edition](https://www.amazon.com/review/R1LBFR9U2IH40U)
       > This edition (Cambridge) is an enormous improvement over the Knox version published by Oxford, but I have done a third version that I hope you'll consider. Three of its advantages: (1) unlike Wood, I don't proceed on the assumption that Hegel's dialectical logic is nonsensical, so I attempt to clarify it, both in the translation and in notes; (2) additional materials from student transcriptions of Hegel's lectures are included with the sections they relate to, not in endnotes; (3) my edition has no endnotes, only footnotes, so readers don't have to waste time flipping to the end of the book to find what is often irrelevant and distracting information.
     - [Review of the chosen edition](https://www.amazon.com/gp/customer-reviews/R3OEKE4ONYC99X?ie=UTF8)
-      > "White's edition of Hegel's monumental work on politics is excellent: useful to first-time readers and specialists alike - - Peter Kalkavage, St. John's College
+      > "White's edition of Hegel's monumental work on politics is excellent: useful to first-time readers and specialists alike - Peter Kalkavage, St. John's College
     - I chose this edition over the Cambridge edition below due to the recommendation above from a St. John's College professor, which is known for their Great Books program, and as such it is similar to the goal of the Reading Plan
     - [Elements of the Philosophy of Right -  Allen W. Wood, H. B. Nisbet](https://www.amazon.com/dp/B00D2WPUGM)
       - [Review from NDPR](https://ndpr.nd.edu/reviews/hegel-s-philosophy-of-right/)
@@ -957,3 +957,5 @@ date: "Jul 13 2025"
     - [Annotated edtion from Oxford](https://www.amazon.com/dp/B005EEHMJ4)
 
 [^10.15]: **Darwin**: The Descent of Man
+
+    - [The version from Penguin](https://www.amazon.com/Descent-Man-Concise-Charles-Darwin-ebook/dp/B000Y1XWT6) is an abridged one, but since the section and chapter numbering is not the same as the full edition, I chose the Gutenberg one
