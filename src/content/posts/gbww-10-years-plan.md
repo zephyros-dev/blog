@@ -319,8 +319,8 @@ date: "Jul 13 2025"
     - Check [First Year, 15](#first-year)
 16. **Kant**: Critique of Pure Reason [Transcendental Dialectic]
     - Check [Fifth Year, 15](#fifth-year)
-17. **Hegel**: Philosophy of History [Introduction]
-    - [The Philosophy of History - J. Sibree](https://www.amazon.com/Philosophy-History-Dover-Philosophical-Classics-ebook/dp/B00A73AAOG)
+17. **Hegel**: Philosophy of History [Introduction] [^6.17]
+    - [Introduction to the Philosophy of History - Leo Rauch](https://www.amazon.com/Introduction-Philosophy-History-Selections-Classics-ebook/dp/B006UKH8WM)
 18. **Kierkegaard**: Fear and Trembling
     - [Fear and Trembling - Alastair Hannay](https://www.amazon.com/Fear-Trembling-Dialectical-Johannes-Silentio-ebook/dp/B002RI97SO)
 19. **Tolstoy**: War and Peace [Book IX-XV, Epilogues]
@@ -874,6 +874,12 @@ date: "Jul 13 2025"
 
     - [Readthegreatbooks comparison of different editions](https://www.readthegreatbooks.com/books/st-augustine-city-of-god-best-translation)
       > For those of us with little prior experience in this sort of work there is Oxford’s Reader’s Guide edition. It does a great job at a scholarly approach to the subject from all different angles. So it may be a good choice for those who ask “so what” when they see City of God. The biggest qualm I have with this one is, it’s only a companion piece, the original text isn’t included. While I do consider this as a good guide to the work, it does have a surprisingly large price tag attached for a companion piece. Next up is the New City Press’ Study Edition. This is a great find for students. It has a solid introduction and some great annotations to boot. There’s only one real hiccup with this one. That being that it is separated into two volumes, while this doesn’t seem bad, for those of us who are students the price on both hasn’t seem to have gone down since it’s release. At least not for a new copy. While price shouldn’t be a dealbreaker, it doesn’t do enough to be separated into two upper priced sections, there’s just options that do more for less. If you’re a higher level student or scholar, the Cambridge University copy is more your speed. It goes heavy into the meaning and context of Augustine’s words and how they relate to the world. It includes a nice translation, solid notes, and an added bibliography and layout of Augustine’s life as well. The drawback of this is it may not be suited for those not already knowledgeable in the area. It has a heavy handed political and historic approach to it all, and that can be a little intimidating. The best of the best of this list is Penguin Classics’ copy. It balances great translation and context from scholars well known for their study of the era. It is the best here for it’s readability. No matter your level in the subject you won’t find this too dense or too watered down.
+
+[^6.17]: **Hegel**: Philosophy of History
+
+    - The chosen edition is the newest translations that I know of, with the translators note as such:
+      > Three other English translations known to me are those of Sibree (1857), Hartman (1953), and Nisbet (1975). I believe that I have avoided many of the weaknesses and corrected many of the errors in all three
+    - [The Dover edition](https://www.amazon.com/Philosophy-History-Dover-Philosophical-Classics-ebook/dp/B00A73AAOG) is from Sibree
 
 [^7.6]: **Epictetus**: Discourses
 
