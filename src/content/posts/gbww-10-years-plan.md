@@ -455,7 +455,7 @@ date: "Jul 13 2025"
     - Experimental Researches in Electricity: [Gutenberg](https://gutenberg.org/ebooks/14986)
     - A Speculation Touching Electric Conduction and the Nature of Matter: [Scanned PDF](https://web.archive.org/web/20231031080234/https://zenodo.org/records/1612380/files/article.pdf)
 14. **Hegel**: Philosophy of Right [Part III] [^9.14]
-    - [Philosophy of Right - Alan White](https://www.amazon.com/review/R1LBFR9U2IH40U)
+    - [Philosophy of Right - Alan White](https://www.amazon.com/Philosophy-Right-Focus-Philosophical-Library-ebook/dp/B00PRHFVIM)
 15. **Austen**: Emma
     - [Standard Ebooks](https://standardebooks.org/ebooks/jane-austen/emma)
 16. **Marx**: Capital [Part III-IV]
