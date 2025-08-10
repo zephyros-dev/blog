@@ -207,7 +207,7 @@ date: "Jul 13 2025"
    - [Institutes of the Christian Religion - Ford Lewis Battles](https://www.amazon.com/Calvin-Institutes-Christian-Religion-Classics-ebook/dp/B00IYW227A)
 9. **Montaigne**: Apology for Raymond de Sebonde
    - Check [First Year, 11](#first-year)
-10. **Galileo**: Two New Sciences [Third Day, through Scholium of Theorem II]
+10. **Galileo**: Two New Sciences [Third Day, through Scholium of Theorem II] [^4.10]
     - [Two New Sciences - Alessandro De Angelis](https://www.amazon.com/Galileo-Galileis-Two-New-Sciences-ebook/dp/B09PTT8P4Q)
 11. **Bacon**: Novum Organum [Preface, Book I] [^4.11]
     - [Bacon: Selected Philosophical Works - Rose-Mary Sargent](https://www.amazon.com/Bacon-Selected-Philosophical-Hackett-Classics-ebook/dp/B00OZ4NMQQ)
@@ -246,7 +246,7 @@ date: "Jul 13 2025"
    - [Gutenberg](https://www.gutenberg.org/ebooks/43383)
 6. **Virgil**: The Aeneid [^5.6]
    - [The Aeneid - Sarah Ruden](https://www.amazon.com/dp/B08T1NJ3VH)
-7. Asotronomy Works
+7. Asotronomy Works [^5.7]
    - **Ptolemy**: The Almagest [Book I, Ch. 1-8]
      - [Ptolemy's Almagest - G. J. Toomer](https://press.princeton.edu/books/ebook/9780691213361/ptolemys-almagest)
    - **Copernicus**: Revolutions of the Heavenly Spheres [Introduction—Book I-Ch. 11]
@@ -311,8 +311,8 @@ date: "Jul 13 2025"
     - Check [Fifth Year, 13](#fifth-year)
 12. **Milton**: Samson Agonistes
     - [Gutenberg](https://www.gutenberg.org/ebooks/1745)
-13. **Pascal**: The Provincial Letters
-    - [Gutenberg](https://www.gutenberg.org/ebooks/73959)
+13. **Pascal**: The Provincial Letters [^6.13]
+    - [Delphi Collected Works of Blaise Pascal](https://www.amazon.com/Delphi-Collected-Blaise-Pascal-Illustrated-ebook/dp/B08BF759Y7)
 14. **Locke**: An Essay Concerning Human Understanding [Book IV]
     - Check [First Year, 13](#first-year)
 15. **Gibbon**: The Decline and Fall of the Roman Empire [Ch. 1-5, General Observations on the Fall of the Roman Empire in the West]
@@ -362,8 +362,9 @@ date: "Jul 13 2025"
     - Check [Fifth Year, 13](#fifth-year)
 14. **Newton**: Mathematical Principles of Natural Philosophy [Book III, Rules], Optics [Book I, Part I; Book III, Queries]
     - Mathematical Principles of Natural Philosophy: Check [Fourth Year, 13](#fourth-year)
-    - Opticks: [Gutenberg](https://www.gutenberg.org/ebooks/14725)
-15. **Huygens**: Treatise on Light
+    - Opticks:  [^7.14]
+    - Opticks: [Gutenberg](https://www.gutenberg.org/ebooks/33504)
+15. **Huygens**: Treatise on Light [^7.15]
     - [Gutenberg](https://www.gutenberg.org/ebooks/14725)
 16. **Kant**: Critique of Practical Reason [^2.18]
     - [Critique of Practical Reason - Mary Gregor](https://www.amazon.com/Kant-Critique-Practical-Cambridge-Philosophy-ebook/dp/B00Q8TWV1S)
@@ -440,19 +441,21 @@ date: "Jul 13 2025"
    - Check [Sixth Year, 7](#sixth-year)
 6. **St. Thomas Aquinas**: Summa Theologica [Part II-II, QQ 1-7]
    - Check [Third Year, 9](#third-year)
-7. **Gilbert**: On the Loadstone
+7. **Gilbert**: On the Loadstone [^9.7]
    - [Gutenberg](https://gutenberg.org/ebooks/33810)
 8. **Descartes**: Rules for the Direction of the Mind [^4.12]
    - [The Philosophical Writings of Descartes: Volume 1 - John Cottingham, Robert Stoothoff, Dugald Murdoch](https://www.amazon.com/Philosophical-Writings-Descartes-1-ebook/dp/B00D2WQ5FW)
 9. **Descartes**: Geometry
    - This section is in [Fourth Year, 12](#fourth-year)
-10. **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids, On Geometrical Demonstration
+10. **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids, On Geometrical Demonstration [^9.10]
+    - [Great Physics Texts Series, Volume II, Chapter 14 - 15](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00RZKJ6LM)
+    - On Geometrical Demonstration: Check [Sixth Year, 13](#sixth-year)
 11. **Molière**: Tartuffe
     - [The Misanthrope, Tartuffe, and Other Plays - Maya Slater](https://www.amazon.com/dp/B0077R8S9Y)
 12. **Montesquieu**: The Spirit of Laws [Book I-V, VIII, XI-XII]
     - [The Spirit of the Laws](https://www.amazon.com/Montesquieu-Cambridge-History-Political-Thought-ebook/dp/B00E3URAUG)
 13. **Faraday**: Experimental Researches in Electricity [Series I-II], A Speculation Touching Electric Conduction and the Nature of Matter
-    - Experimental Researches in Electricity: [Gutenberg](https://gutenberg.org/ebooks/14986)
+    - Experimental Researches in Electricity: [Gutenberg](https://gutenberg.org/ebooks/14986) [^9.13]
     - A Speculation Touching Electric Conduction and the Nature of Matter: [Scanned PDF](https://web.archive.org/web/20231031080234/https://zenodo.org/records/1612380/files/article.pdf)
 14. **Hegel**: Philosophy of Right [Part III] [^9.14]
     - [Philosophy of Right - Alan White](https://www.amazon.com/Philosophy-Right-Focus-Philosophical-Library-ebook/dp/B00PRHFVIM)
@@ -782,6 +785,10 @@ date: "Jul 13 2025"
 
     - I chose this edition since it is considered the authoritative edition of the work according to [Wikipedia](https://en.wikipedia.org/wiki/Institutes_of_the_Christian_Religion#cite_note-22)
 
+[^4.10]: **Galileo**: Two New Sciences
+
+    - Also available in the with older translation in [Great Physics Texts Series, Volume II](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00RZKJ6LM) if you don't want to buy the singular work
+
 [^4.11]: **Bacon**: Novum Organum
 
     - [A comparison between editions from Readthegreatbooks](https://www.readthegreatbooks.com/books/bacon-novum-organum-%28new-organon%29-best-translation)
@@ -795,6 +802,7 @@ date: "Jul 13 2025"
 
 [^4.13]: **Newton**: Mathematical Principles of Natural Philosophy
 
+    - Also available in the with older translation in [Great Physics Texts Series, Volume II](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00RZKJ6LM) if you don't want to buy the singular work
     - This is the latest translations with Ebook format available. For paperback users I found 2 other editions worth noting:
       - Dana Densmore and William H. Donahue [edition](https://www.amazon.com/dp/1888009241) which [was developed as a textbook for classes at St. John's College and the aim of this translation is to be faithful to the Latin text](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica#cite_note-129), so it might be best suited for the readers of the set
       - Charles Leedham-Green [edition](https://www.amazon.com/dp/1107020654) which [aim was to convey Newton's own reasoning and arguments in a way intelligible to a modern mathematical scientist](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica#cite_note-127)
@@ -816,6 +824,10 @@ date: "Jul 13 2025"
       > - Ahl: More than anyone else, Ahl seems to have striven to capture every possible facet of the original: the meter, the wordplay, the assonance & alliteration, the meaning… it’s all there. Most must choose between “accurate, but not an object of literary value per se” vs. “poetic & artful, but not very true to the source”; for my money, Ahl has—somehow—managed to have his libum (archive), and eat it too.
       > - Ruden: Sure, sure, it is not the Sacred Hexameter… but it is an extremely faithful rendering—more-so than most—and she still manages word choice finer than Bartsch’s & phrasing more natural than Krisak’s, to my mind’s… ear(?); and, not infrequently, her brevity makes it a smoother & easier read compared to Ahl’s (relative) prolixity.
     - [A list of translations](https://foundinantiquity.com/2023/12/05/do-we-have-too-many-english-translations-of-the-aeneid/)
+
+[^5.7]: **Ptolemy**: The Almagest, **Kepler**: Epitome of Copernican Astronomy, **Kepler**: Epitome of Copernican Astronomy
+
+    - Also available with older translations than the chosen one in [Great Physics Texts Series, Volume I](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00S15DKK8) if you don't want to buy the singular work
 
 [^5.8]: **Plotinus**: Sixth Ennead
 
@@ -875,6 +887,10 @@ date: "Jul 13 2025"
     - [Readthegreatbooks comparison of different editions](https://www.readthegreatbooks.com/books/st-augustine-city-of-god-best-translation)
       > For those of us with little prior experience in this sort of work there is Oxford’s Reader’s Guide edition. It does a great job at a scholarly approach to the subject from all different angles. So it may be a good choice for those who ask “so what” when they see City of God. The biggest qualm I have with this one is, it’s only a companion piece, the original text isn’t included. While I do consider this as a good guide to the work, it does have a surprisingly large price tag attached for a companion piece. Next up is the New City Press’ Study Edition. This is a great find for students. It has a solid introduction and some great annotations to boot. There’s only one real hiccup with this one. That being that it is separated into two volumes, while this doesn’t seem bad, for those of us who are students the price on both hasn’t seem to have gone down since it’s release. At least not for a new copy. While price shouldn’t be a dealbreaker, it doesn’t do enough to be separated into two upper priced sections, there’s just options that do more for less. If you’re a higher level student or scholar, the Cambridge University copy is more your speed. It goes heavy into the meaning and context of Augustine’s words and how they relate to the world. It includes a nice translation, solid notes, and an added bibliography and layout of Augustine’s life as well. The drawback of this is it may not be suited for those not already knowledgeable in the area. It has a heavy handed political and historic approach to it all, and that can be a little intimidating. The best of the best of this list is Penguin Classics’ copy. It balances great translation and context from scholars well known for their study of the era. It is the best here for it’s readability. No matter your level in the subject you won’t find this too dense or too watered down.
 
+[^6.13]: **Pascal**: The Provincial Letters
+
+    - While the Provincial Letters is available on [Gutenberg](https://www.gutenberg.org/ebooks/73959), I only found `On Geometrical Demonstration` in the Delphi collection, so I went with it
+
 [^6.17]: **Hegel**: Philosophy of History
 
     - The chosen edition is the newest translations that I know of, with the translators note as such:
@@ -894,6 +910,14 @@ date: "Jul 13 2025"
       > - Robin Waterfield, (2022), The Complete Works: Handbook, Discourses, and Fragments. The University of Chicago Press
       >   - Pros: Has the clarity and efficiency of Dobbin's translation but is also close to the accuracy of Hard's translation.
       >   - Cons: More expensive
+
+[^7.14]: **Newton**: Opticks
+
+    - Also available in [Great Physics Texts Series, Volume III](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B019DPU836). It's the same edition as Gutenberg
+
+[^7.15]: **Huygens**: Treatise on Light
+
+    - Also available in [Great Physics Texts Series, Volume III](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B019DPU836). It's the same edition as Gutenberg
 
 [^7.20]: **Proust**: Swann in Love
 
@@ -942,6 +966,20 @@ date: "Jul 13 2025"
     - [EUP review of the chosen edition](https://www.euppublishing.com/doi/full/10.3366/E0968136109000843)
     - Check out the *Translations of the opening sentence* section of [Wikipedia page](https://en.wikipedia.org/wiki/The_Metamorphosis) for a list of translations
     - [Guardian articles on various translations of the opening sentences](https://www.theguardian.com/books/booksblog/2015/may/13/kafka-metamorphosis-translations)
+
+[^9.7]: **Gilbert**: On the Loadstone
+
+    - The usual [Great Physics Texts Series, Volume III](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B019DPU836) only has Book III, while the reading contains all book.
+    - The Gutenberg edition is in 1900, translated by Silvanus Phillips Thompson, while the edition used in the original set is from 1893 by Paul Fleury Mottelay, and is now printed by [Dover](https://www.amazon.com/Magnete-William-Gilbert-ebook/dp/B00A44YIMS)
+      - I can't speak of the translation quality on these editions, but given that the Gutenberg is free and is newer (abeit only by 7 years), I went with it
+
+[^9.10]:  **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids
+
+    - Free scan at [Internet Archive](https://archive.org/details/the-physical-treatises-of-pascal)
+
+[^9.13]: **Faraday**: Experimental Researches in Electricity
+
+    - Also available in [Great Physics Texts Series, Volume III](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B019DPU836). It's the same edition as Gutenberg
 
 [^9.14]: **Hegel**: Philosophy of Right
 
