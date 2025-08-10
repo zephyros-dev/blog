@@ -448,7 +448,7 @@ date: "Jul 13 2025"
 9. **Descartes**: Geometry
    - This section is in [Fourth Year, 12](#fourth-year)
 10. **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids, On Geometrical Demonstration [^9.10]
-    - [Great Physics Texts Series, Volume II, Chapter 14 - 15](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00RZKJ6LM)
+    - [Great Physics Texts Series, Volume II, Chapter 14 - 15 - Kerry Kuehn](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00RZKJ6LM)
     - On Geometrical Demonstration: Check [Sixth Year, 13](#sixth-year)
 11. **Molière**: Tartuffe
     - [The Misanthrope, Tartuffe, and Other Plays - Maya Slater](https://www.amazon.com/dp/B0077R8S9Y)
