@@ -515,7 +515,7 @@ date: "Jul 13 2025"
     - [Check Eighth Year, 15](#eighth-year)
 17. **William James**: Principles of Psychology [Ch. I, V-VII]
     - Check [Fourth Year, 19](#fourth-year)
-18. **Freud**: A General Introduction to Psycho-Analysis [^3.18]
+18. **Freud**: A General Introduction to Psychoanalysis [^3.18]
     - [Gutenberg](https://www.gutenberg.org/ebooks/38219)
 19. **Huizinga**: The Waning of the Middle Ages [XI–XXIII]
     - Check [Sixth Year, 20](#sixth-year)
@@ -741,6 +741,9 @@ date: "Jul 13 2025"
 [^3.18]: **Freud** Works
 
     - If you really have money to spare (and I mean it), then you can consider [The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud](https://www.amazon.com/Revised-Standard-Complete-Psychological-Sigmund-ebook/dp/B0CYCZ7113)
+      - The Origin and Development of Psychoanalysis: Volume XI
+      - Civilization and Its Discontents: Volume XXI
+      - A General Introduction to Psychoanalysis: Volume XV - XVI
 
 [^3.7]: **Euclid**: Elements
 
