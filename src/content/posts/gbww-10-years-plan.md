@@ -124,9 +124,9 @@ date: "Jul 13 2025"
 13. **Pascal**: Pensées [Numbers 72, 82-83, 100, 128, 131, 139, 142-143, 171, 194- 195, 219, 229, 233-234, 242, 273, 277, 282, 289, 298, 303, 320, 323, 325, 330-331, 374, 385, 392, 395-397, 409, 412-413, 416, 418, 425, 430, 434-435, 463, 491, 525- 531, 538, 543, 547, 553, 556, 564, 571, 586, 598, 607-610, 613, 619-620, 631, 640, 644, 673, 675, 684, 692-693, 737, 760, 768, 792-793] [^2.13]
     - [Pensees - A. J. Krailsheimer](https://www.amazon.com/Pensees-Penguin-Classics-Blaise-Pascal-ebook/dp/B002XHNNWK)
 14. **Pascal**: Treatise on the Arithmetical Triangle [^2.14]
-      - [Treatise on the Arithmetical Triangle - Richard Pulskamp](https://devapeur.wordpress.com/wp-content/uploads/2016/11/pascal-arithmetic-triangle.pdf)
+    - [Treatise on the Arithmetical Triangle - Richard Pulskamp](https://devapeur.wordpress.com/wp-content/uploads/2016/11/pascal-arithmetic-triangle.pdf)
 15. **Swift**: Gulliver's Travels [^2.15]
-      - [Gulliver's Travels - Claude Rawson](https://www.amazon.com/Gullivers-Travels-Oxford-Worlds-Classics-ebook/dp/B000SEU2M4)
+    - [Gulliver's Travels - Claude Rawson](https://www.amazon.com/Gullivers-Travels-Oxford-Worlds-Classics-ebook/dp/B000SEU2M4)
 16. **Voltaire**: Candide [^2.16]
     - [Candide - Theo Cuffe](https://www.amazon.com/Candide-Optimism-Penguin-Classics-Deluxe-ebook/dp/B00B7NP1HQ)
 17. **Rousseau**: A Discourse on the Origin of Inequality
@@ -360,9 +360,8 @@ date: "Jul 13 2025"
     - Check [Fourth Year, 10](#fourth-year)
 13. **Spinoza**: Ethics [Part IV-V]
     - Check [Fifth Year, 13](#fifth-year)
-14. **Newton**: Mathematical Principles of Natural Philosophy [Book III, Rules], Optics [Book I, Part I; Book III, Queries]
+14. **Newton**: Mathematical Principles of Natural Philosophy [Book III, Rules], Optics [Book I, Part I; Book III, Queries] [^7.14]
     - Mathematical Principles of Natural Philosophy: Check [Fourth Year, 13](#fourth-year)
-    - Opticks:  [^7.14]
     - Opticks: [Gutenberg](https://www.gutenberg.org/ebooks/33504)
 15. **Huygens**: Treatise on Light [^7.15]
     - [Gutenberg](https://www.gutenberg.org/ebooks/14725)
@@ -484,12 +483,15 @@ date: "Jul 13 2025"
    - [Generation of Animals - C. D. C. Reeve](https://www.amazon.com/dp/B08114J4BX)
 4. **Lucretius**: On the Nature of Things [Book V-VI]
    - Check [Second Year, 9](#second-year)
-5. **Virgil**: The Eclogues, The Georgics
+5. **Virgil**: The Eclogues, The Georgics [^10.5]
+   - [The Eclogues - David Ferry](https://www.amazon.com/Eclogues-Virgil-ebook/dp/B015WA0EOY)
+   - [The Georgics - David Ferry](https://www.amazon.com/Georgics-Virgil-David-Ferry-ebook/dp/B016VIVLMA)
 6. **St. Thomas Aquinas**: Summa Theologica [Part I, QQ 65-74]
    - Check [Third Year, 9](#third-year)
 7. **St. Thomas Aquinas**: Summa Theologica [Part I, QQ 90-102]
    - Check [Third Year, 9](#third-year)
-8. **Chaucer**: Canterbury Tales [The Prologue, The Knight’s Tale, The Miller's Tale, The Reeve’s Prologue and Tale, The Pardoner’s Prologue and Tale, The Wife of Bath’s Prologue and Tale, The Friar’s Prologue and Tale, The Summoner’s Prologue and Tale]
+8. **Chaucer**: Canterbury Tales [The Prologue, The Knight’s Tale, The Miller's Tale, The Reeve’s Prologue and Tale, The Pardoner’s Prologue and Tale, The Wife of Bath’s Prologue and Tale, The Friar’s Prologue and Tale, The Summoner’s Prologue and Tale] [^10.8]
+   - [The Canterbury Tales - Joseph Glaser](https://www.amazon.com/Canterbury-Tales-Modern-Hackett-Classics-ebook/dp/B003ZDO0GE)
 9. **Erasmus**: The Praise of Folly
    - [The Praise of Folly - Hoyt Hopewell Hudson](https://www.amazon.com/dp/B00TWPCGNI)
 10. **Shakespeare**: The Tragedy of King Richard II, The First Part of King Henry IV, The Second Part of King Henry IV, The Life of King Henry V
@@ -1000,6 +1002,18 @@ date: "Jul 13 2025"
 
     - [Annotated edtion from Oxford](https://www.amazon.com/dp/B005EEHMJ4)
 
+[^10.5]: **Virgil**: The Eclogues, The Georgics
+
+    - [A review of The Eclogues Ferry's translation](https://www.amazon.com/review/RE9HM2SM172CI)
+    - [A review of The Georgics Ferry's translation from Amazon](https://www.amazon.com/gp/customer-reviews/R1L40O48L390BG)
+      > I have read Fallon’s (Oxford, Wilkinson’s (Penguin)) and Ferry’s translations of a good deal of the Georgics, and have to say that this edition is the best ... Ferry’s strikes the perfect balance between accuracy and beauty that makes for a great translation. Wilkinson’s seems to be closer to the original Latin but adds some of its own flourishes that ends up with the poem seeming somewhat more opaque than it has to be. Fallon’s, by contrast, is way too straightforward and “modern” in its styling. In his edition, he cuts out a lot of the fat, which leads to the majesty of the verse evaporating entirely. It reads more like an itinerary or instruction manual than poetry. Ferry’s is just gorgeous. You get almost precisely what Virgil wanted to say from his translation, and the glossary is helpful without being daunting.
+    - I chose Ferry's translation since they are the most recent one of both poem with the same translator to keep up the consistency, and the reviews seems good
+
+[^10.8]: **Chaucer**: Canterbury Tales
+
+    - [Reviews from Readthegreatbooks](https://www.readthegreatbooks.com/books/chaucer-canterbury-tales-best-translation)
+      > Hackett publishing’s version is by far the best available currently. Joseph Glaser of Kentucky University is the translator for this piece and it is something of wonder. Not only is it easy to grasp but it also keeps Chaucer’s rhyming scheme and word choice relatively unaltered. In addition there is plenty of notation and summary about the significance of the work and what it means in modernity.
+
 [^10.15]: **Darwin**: The Descent of Man
 
-    - [The version from Penguin](https://www.amazon.com/Descent-Man-Concise-Charles-Darwin-ebook/dp/B000Y1XWT6) is an abridged one, but since the section and chapter numbering is not the same as the full edition, I chose the Gutenberg one
+    - [The version from Penguin](https://www.amazon.com/Descent-Man-Concise-Charles-Darwin-ebook/dp/B000Y1XWT6) is an abridged one, but since the section and chapter numbering is not the same as the full edition, I chose the Gutenberg edition
