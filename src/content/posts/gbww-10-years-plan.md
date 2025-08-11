@@ -151,6 +151,7 @@ date: "Jul 13 2025"
 4. **Plato**: Statesman
    - Check [First Year, 1](#first-year)
 5. **Aristotle**: On Interpretation [Ch. 1-10] [^3.5]
+   - [Readings in Ancient Greek Philosophy - C. D. C. Reeve](https://www.amazon.com/Readings-Ancient-Greek-Philosophy-Aristotle-ebook/dp/B01MTANY5H)
 6. **Aristotle**: Politics [Book III-V]
    - Check [First Year, 5](#first-year)
 7. **Euclid**: Elements [Book I] [^3.7]
@@ -175,7 +176,7 @@ date: "Jul 13 2025"
     - [Gutenberg](http://www.gutenberg.org/ebooks/30775)
 17. **Dostoevsky**: The Brothers Karamazov [Part I-II] [^3.17]
     - [The Brothers Karamazov - Richard Pevear, Larissa Volokhonsky](https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue-ebook/dp/B004ZM10OE)
-18. **Freud**: The Origin and Development of Psychoanalysis
+18. **Freud**: The Origin and Development of Psychoanalysis [^3.18]
     - [Delphi Collected Works of Sigmund Freud](https://www.amazon.com/dp/B06ZYLCNZW)
       - It's called *Five Lecture on Psychoanalysis* in this edition
 19. **Twain**: Adventures of Huckleberry Finn
@@ -238,6 +239,7 @@ date: "Jul 13 2025"
 1. **Plato**: Phaedo
    - Check [First Year, 1](#first-year)
 2. **Aristotle**: Categories [^3.5]
+   - Check [Third Year, 5](#third-year)
 3. **Aristotle**: On the Soul [Book II, Ch. 1-3; Book III] [^1.4]
    - [De Anima - C. D. C. Reeve](https://www.amazon.com/Anima-New-Hackett-Aristotle-ebook/dp/B075YF8JVB)
 4. **Hippocrates**: The Oath; On Ancient Medicine; On Airs, Waters, and Places; The Book of Prognostics; Of the Epidemics; The Law; On the Sacred Disease
@@ -462,7 +464,7 @@ date: "Jul 13 2025"
     - [Standard Ebooks](https://standardebooks.org/ebooks/jane-austen/emma)
 16. **Marx**: Capital [Part III-IV]
     - [Check Eighth Year, 15](#eighth-year)
-17. **Freud**: Civilization and Its Discontents
+17. **Freud**: Civilization and Its Discontents [^3.18]
     - [Civilization and Its Discontents - David McLintock](https://www.amazon.com/Civilization-Discontents-Penguin-Modern-Classics-ebook/dp/B002RI9K8Q)
 18. **Planck**: Scientific Autobiography
     - [Scientific Autobiography](https://www.amazon.com/dp/B00NOC5LAA)
@@ -513,7 +515,7 @@ date: "Jul 13 2025"
     - [Check Eighth Year, 15](#eighth-year)
 17. **William James**: Principles of Psychology [Ch. I, V-VII]
     - Check [Fourth Year, 19](#fourth-year)
-18. **Freud**: A General Introduction to Psycho-Analysis
+18. **Freud**: A General Introduction to Psycho-Analysis [^3.18]
     - [Gutenberg](https://www.gutenberg.org/ebooks/38219)
 19. **Huizinga**: The Waning of the Middle Ages [XI–XXIII]
     - Check [Sixth Year, 20](#sixth-year)
@@ -734,6 +736,11 @@ date: "Jul 13 2025"
 [^3.5]: **Aristotle**: On Interpretation, Categories
 
     - For future reader, this work will be translated by Reeve in his [Aristotle Complete Works Volume 1](https://hackettpublishing.com/pdfs/ACW_Detailed_TOC_Book-1.pdf) which is the choice for all of our Aristotle works in the Reading plan
+    - The chosen edition has the translator from the *Complete Works* so I chose this edition to keep the consistency of translators, though getting the whole book might be expensive when you only need 2 minor work from it
+
+[^3.18]: **Freud** Works
+
+    - If you really have money to spare (and I mean it), then you can consider [The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud](https://www.amazon.com/Revised-Standard-Complete-Psychological-Sigmund-ebook/dp/B0CYCZ7113)
 
 [^3.7]: **Euclid**: Elements
 
