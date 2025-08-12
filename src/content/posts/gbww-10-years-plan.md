@@ -449,14 +449,14 @@ date: "Jul 13 2025"
 9. **Descartes**: Geometry
    - This section is in [Fourth Year, 12](#fourth-year)
 10. **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids, On Geometrical Demonstration [^9.10]
-    - [Great Physics Texts Series, Volume II, Chapter 14 - 15 - Kerry Kuehn](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00RZKJ6LM)
+    - The Great Experiment Concerning the Equilibrium of Fluids: [Great Physics Texts Series, Volume II, Chapter 14 - 15 - Kerry Kuehn](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00RZKJ6LM)
     - On Geometrical Demonstration: Check [Sixth Year, 13](#sixth-year)
 11. **Molière**: Tartuffe
     - [The Misanthrope, Tartuffe, and Other Plays - Maya Slater](https://www.amazon.com/dp/B0077R8S9Y)
 12. **Montesquieu**: The Spirit of Laws [Book I-V, VIII, XI-XII]
     - [The Spirit of the Laws](https://www.amazon.com/Montesquieu-Cambridge-History-Political-Thought-ebook/dp/B00E3URAUG)
-13. **Faraday**: Experimental Researches in Electricity [Series I-II], A Speculation Touching Electric Conduction and the Nature of Matter
-    - Experimental Researches in Electricity: [Gutenberg](https://gutenberg.org/ebooks/14986) [^9.13]
+13. **Faraday**: Experimental Researches in Electricity [Series I-II], A Speculation Touching Electric Conduction and the Nature of Matter [^9.13]
+    - Experimental Researches in Electricity: [Gutenberg](https://gutenberg.org/ebooks/14986)
     - A Speculation Touching Electric Conduction and the Nature of Matter: [Scanned PDF](https://web.archive.org/web/20231031080234/https://zenodo.org/records/1612380/files/article.pdf)
 14. **Hegel**: Philosophy of Right [Part III] [^9.14]
     - [Philosophy of Right - Alan White](https://www.amazon.com/Philosophy-Right-Focus-Philosophical-Library-ebook/dp/B00PRHFVIM)
