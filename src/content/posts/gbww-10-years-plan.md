@@ -837,7 +837,7 @@ date: "Jul 13 2025"
       > - Ruden: Sure, sure, it is not the Sacred Hexameter… but it is an extremely faithful rendering—more-so than most—and she still manages word choice finer than Bartsch’s & phrasing more natural than Krisak’s, to my mind’s… ear(?); and, not infrequently, her brevity makes it a smoother & easier read compared to Ahl’s (relative) prolixity.
     - [A list of translations](https://foundinantiquity.com/2023/12/05/do-we-have-too-many-english-translations-of-the-aeneid/)
 
-[^5.7]: **Ptolemy**: The Almagest, **Kepler**: Epitome of Copernican Astronomy, **Kepler**: Epitome of Copernican Astronomy
+[^5.7]: **Ptolemy**: The Almagest, **Copernicus**: Revolutions of the Heavenly Spheres, **Kepler**: Epitome of Copernican Astronomy
 
     - Also available with older translations than the chosen one in [Great Physics Texts Series, Volume I](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00S15DKK8) if you don't want to buy the singular work
 
