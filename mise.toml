@@ -1,0 +1,4 @@
+[tools]
+node = "24.6.0"
+pnpm = "10.15.0"
+pre-commit = "4.3.0"
