@@ -56,9 +56,9 @@ date: "Jul 13 2025"
 3. **Plato**: Republic [Book I-II]
    - Check [First Year, 1](#first-year)
 4. **Aristotle**: Nicomachean Ethics [Book I] [^1.4]
-   - [Nicomachean Ethics 2nd Edition - C. D. C. Reeve](https://www.amazon.com/Nicomachean-Ethics-Aristotle-ebook/dp/B0CQN6RHBR)
+   - [Aristotle: Complete Works - C. D. C. Reeve](https://www.amazon.com/Aristotle-Complete-Works-Two-Set-ebook/dp/B0FTR1NXVC)
 5. **Aristotle**: Politics [Book I] [^1.5]
-   - [Politics: A New Translation - C. D. C. Reeve](https://www.amazon.com/Politics-New-Translation-Hackett-Aristotle-ebook/dp/B06ZYLDDJ8)
+   - Check [First Year, 4](#first-year)
 6. **Plutarch**: The Lives of the Noble Grecians and Romans [Lycurgus, Numa Pompilius, Lycurgus and Numa Compared, Alexander, Caesar] [^1.6]
    - Lycurgus: [On Sparta - Richard Talbert](https://www.amazon.com/Sparta-Penguin-Classics-Plutarch-ebook/dp/B002RI9WSY)
    - Numa Pompilius, Lycurgus and Numa Compared: [The Rise of Rome - Christopher Pelling, Ian Scott-Kilvert](https://www.amazon.com/Rise-Rome-Penguin-Classics-ebook/dp/B0719C4YPX)
@@ -108,7 +108,7 @@ date: "Jul 13 2025"
 5. **Plato**: Meno
    - Check [First Year, 1](#first-year)
 6. **Aristotle**: Poetics [^2.6]
-   - [Poetics - Anthony Kenny](https://www.amazon.com/Poetics-Oxford-Worlds-Classics-Anthony-ebook/dp/B00ABDZTJS)
+   - Check [First Year, 4](#first-year)
 7. **Aristotle**: Nicomachean Ethics [Book II; Book III, Ch. 5-12; Book VI, Ch. 8-13]
    - Check [First Year, 4](#first-year)
 8. **Nicomachus**: Introduction to Arithmetic
@@ -123,7 +123,8 @@ date: "Jul 13 2025"
     - [Gutenberg](https://www.gutenberg.org/ebooks/608)
 13. **Pascal**: Pensées [Numbers 72, 82-83, 100, 128, 131, 139, 142-143, 171, 194-195, 219, 229, 233-234, 242, 273, 277, 282, 289, 298, 303, 320, 323, 325, 330-331, 374, 385, 392, 395-397, 409, 412-413, 416, 418, 425, 430, 434-435, 463, 491, 525-531, 538, 543, 547, 553, 556, 564, 571, 586, 598, 607-610, 613, 619-620, 631, 640, 644, 673, 675, 684, 692-693, 737, 760, 768, 792-793] [^2.13]
     - [Pensees - A. J. Krailsheimer](https://www.amazon.com/Pensees-Penguin-Classics-Blaise-Pascal-ebook/dp/B002XHNNWK)
-      - Conversion of numbering of the edition in the set (translated by W. F. Trotter) to this edition: Numbers 199, 44-45, 978, 79, 622, 136, 137-139, 414, 427-428, 612, 429, 418+577, 782, 173, 423, 110, 482, 103, 554, 977, 688, 525, 26+533, 33, 905, 109, 406+128+114, 117, 621+410, 122, 121, (?), 149, 131+208, 142, 214, 388+352+192+212+353+712+538, 358, 190, 189, 919, 449, 835, 502, 446, 218, 287+289+286+453, 281, 454+451, 451, 311, 392, 826-827, 503, 257, 269+198, 793, 593, 570, 499+308
+      - Conversion of numbering of the edition in the set (translated by W. F. Trotter) to this edition:
+        - Numbers 199, 44+45, 978, 79, 622, 136, 137-139, 414, 427+428, 612, 429, 418+577, 782, 173, 423, 110, 482, 103, 554, 977, 688, 525, 26+533, 33, 905, 109, 406+128+114, 117, 621+410, 122, 121, (?), 149, 131+208, 142, 214, 388+352+192+212+353+712+538, 358, 190, 189, 919, 449, 835, 502, 446, 218, 287+289+286+453, 281, 454+451, 451, 311, 392, 826-827, 503, 257, 269+198, 793, 593, 570, 499+308
 14. **Pascal**: Treatise on the Arithmetical Triangle [^2.14]
     - [Treatise on the Arithmetical Triangle - Richard Pulskamp](https://devapeur.wordpress.com/wp-content/uploads/2016/11/pascal-arithmetic-triangle.pdf)
 15. **Swift**: Gulliver's Travels [^2.15]
@@ -152,9 +153,9 @@ date: "Jul 13 2025"
 4. **Plato**: Statesman
    - Check [First Year, 1](#first-year)
 5. **Aristotle**: On Interpretation [Ch. 1-10] [^3.5]
-   - [Readings in Ancient Greek Philosophy - C. D. C. Reeve](https://www.amazon.com/Readings-Ancient-Greek-Philosophy-Aristotle-ebook/dp/B01MTANY5H)
+   - Check [First Year, 4](#first-year)
 6. **Aristotle**: Politics [Book III-V]
-   - Check [First Year, 5](#first-year)
+   - Check [First Year, 4](#first-year)
 7. **Euclid**: Elements [Book I] [^3.7]
    - [Gutenberg](http://www.gutenberg.org/ebooks/21076)
 8. **Tacitus**: The Annals [^3.8]
@@ -197,10 +198,10 @@ date: "Jul 13 2025"
    - Check [First Year, 1](#first-year)
 3. **Plato**: Theaetetus
    - Check [First Year, 1](#first-year)
-4. **Aristotle**: Physics [Book IV, Ch. 1-5, 10-14] [^1.4]
-   - [Physics - C. D. C. Reeve](https://www.amazon.com/Physics-New-Hackett-Aristotle-ebook/dp/B07BTQLPRZ)
-5. **Aristotle**: Metaphysics [Book I, Ch. 1-2; Book IV; Book VI, Ch. 1; Book XI, Ch. 1-4] [^1.4]
-   - [Metaphysics - C. D. C. Reeve](https://www.amazon.com/Metaphysics-New-Hackett-Aristotle-ebook/dp/B01IGEQHJE)
+4. **Aristotle**: Physics [Book IV, Ch. 1-5, 10-14] [^4.4]
+   - Check [First Year, 4](#first-year)
+5. **Aristotle**: Metaphysics [Book I, Ch. 1-2; Book IV; Book VI, Ch. 1; Book XI, Ch. 1-4] [^4.5]
+   - Check [First Year, 4](#first-year)
 6. **St. Augustine**: Confessions [Book IX-XIII]
    - Check [First Year, 8](#first-year)
 7. **St. Thomas Aquinas**: Summa Theologica [Part I, QQ 16-17, 84-88]
@@ -240,9 +241,9 @@ date: "Jul 13 2025"
 1. **Plato**: Phaedo
    - Check [First Year, 1](#first-year)
 2. **Aristotle**: Categories [^3.5]
-   - Check [Third Year, 5](#third-year)
-3. **Aristotle**: On the Soul [Book II, Ch. 1-3; Book III] [^1.4]
-   - [De Anima - C. D. C. Reeve](https://www.amazon.com/Anima-New-Hackett-Aristotle-ebook/dp/B075YF8JVB)
+   - Check [First Year, 4](#first-year)
+3. **Aristotle**: On the Soul [Book II, Ch. 1-3; Book III] [^5.3]
+   - Check [First Year, 4](#first-year)
 4. **Hippocrates**: The Oath; On Ancient Medicine; On Airs, Waters, and Places; The Book of Prognostics; Of the Epidemics; The Law; On the Sacred Disease
    - [Delphi Complete Works of Hippocrates](https://www.amazon.com/dp/B00SKAE62K)
 5. **Galen**: On the Natural Faculties
@@ -293,8 +294,8 @@ date: "Jul 13 2025"
    - [The Odyssey - Peter Green](https://www.amazon.com/Odyssey-New-Translation-Peter-Green-ebook/dp/B079D6BQ88)
 3. **Plato**: Laws [Book X]
    - Check [First Year, 1](#first-year)
-4. **Aristotle**: Metaphysics [Book XII] [^1.4]
-   - [Metaphysics - C. D. D. Reeve](https://www.amazon.com/Metaphysics-New-Hackett-Aristotle-ebook/dp/B01IGEQHJE)
+4. **Aristotle**: Metaphysics [Book XII] [^6.4]
+   - Check [First Year, 4](#first-year)
 5. **Tacitus**: The Histories [^6.5]
    - [The Histories - Kenneth Wellesley](https://www.amazon.com/Histories-Penguin-Classics-Tacitus-ebook/dp/B004LLIHH2)
 6. **Plotinus**: Fifth Ennead
@@ -391,8 +392,8 @@ date: "Jul 13 2025"
    - Check [First Year, 1](#first-year)
 3. **Aristotle**: Nicomachean Ethics [Book V]
    - Check [First Year, 4](#first-year)
-4. **Aristotle**: Rhetoric [Book I, Ch. 1—Book II, Ch. 1; Book II, Ch. 20—Book III, Ch. 1; Book III, Ch. 13-19] [^1.4]
-   - [Rhetoric - C. D. C. Reeve](https://www.amazon.com/Rhetoric-New-Hackett-Aristotle-ebook/dp/B07KJX7F31)
+4. **Aristotle**: Rhetoric [Book I, Ch. 1—Book II, Ch. 1; Book II, Ch. 20—Book III, Ch. 1; Book III, Ch. 13-19] [^8.4]
+   - Check [First Year, 4](#first-year)
 5. **St. Augustine**: On Christian Doctrine [^8.5]
    - [On Christian Doctrine - J. F. Shaw](https://ccel.org/ccel/augustine/doctrine/doctrine.)
 6. **Hobbes**: Leviathan [Part II]
@@ -436,7 +437,7 @@ date: "Jul 13 2025"
 2. **Thucydides**: The History of the Peloponnesian War [Book VII-VIII]
    - Check [Third Year, 3](#third-year)
 3. **Aristotle**: Politics [Book VII-VIII]
-   - Check [First Year, 5](#first-year)
+   - Check [First Year, 4](#first-year)
 4. New Testament [The Gospel According to St. John, The Epistle of Paul the Apostle to the Romans, The First Epistle of Paul the Apostle to the Corinthians]
    - Check [First Year, 7](#first-year)
 5. **St. Augustine**: The City of God [Book V, XIX]
@@ -482,8 +483,8 @@ date: "Jul 13 2025"
    - [Sophocles II - Mark Griffith, Glenn W. Most, David Grene, Richmond Lattimore](https://www.amazon.com/dp/B00C3X7KTQ)
 2. **Plato**: Timaeus
    - Check [First Year, 1](#first-year)
-3. **Aristotle**: On the Parts of Animals [Book I, Ch. 1—Book II, Ch. 1], On the Generation of Animals [Book I, Ch. 1, 17-18, 20-23] [^1.4]
-   - [Generation of Animals - C. D. C. Reeve](https://www.amazon.com/dp/B08114J4BX)
+3. **Aristotle**: On the Parts of Animals [Book I, Ch. 1—Book II, Ch. 1], On the Generation of Animals [Book I, Ch. 1, 17-18, 20-23] [^10.3]
+   - Check [First Year, 4](#first-year)
 4. **Lucretius**: On the Nature of Things [Book V-VI]
    - Check [Second Year, 9](#second-year)
 5. **Virgil**: The Eclogues, The Georgics [^10.5]
@@ -540,11 +541,13 @@ date: "Jul 13 2025"
 
 [^1.4]: **Aristotle**: Nicomachean Ethics
 
-    - For Aristotle works, Reeve working on the whole [Aristotle Corpus](https://hackettpublishing.com/new-hackett-aristotle-landing-page), and I decided to go with his edition whenever possible for consistency
+    - For Aristotle Corpus, Reeve and colleagues has released the [Complete Works](https://www.amazon.com/Aristotle-Complete-Works-Two-Set-ebook/dp/B0FTR1NXVC) as the latest scholar translations. Buy this edition if you can
+    - Standalone edition: [Nicomachean Ethics 2nd Edition - C. D. C. Reeve](https://www.amazon.com/Nicomachean-Ethics-Aristotle-ebook/dp/B0CQN6RHBR)
     - [Reeve's translation review](https://bmcr.brynmawr.edu/2014/2014.08.45)
 
 [^1.5]: **Aristotle**: Politics
 
+    - Standalone edition: [Politics: A New Translation - C. D. C. Reeve](https://www.amazon.com/Politics-New-Translation-Hackett-Aristotle-ebook/dp/B06ZYLDDJ8)
     - [Review and comparison to other translation](https://bmcr.brynmawr.edu/2018/2018.01.12)
 
 [^1.6]: **Plutarch**: The Lives of the Noble Grecians and Romans
@@ -641,9 +644,9 @@ date: "Jul 13 2025"
 
 [^2.6]: **Aristotle**: Poetics
 
+    - Standalone edition: [Poetics - Anthony Kenny](https://www.amazon.com/Poetics-Oxford-Worlds-Classics-Anthony-ebook/dp/B00ABDZTJS)
+      - This edition contains Table of Content with all the chapter unlike the Hackett edition
     - [Comments on edition choice from Readthegreatbooks](https://www.readthegreatbooks.com/books/aristotle-poetics-best-translation)
-    - Personally I went with Oxford edition since its Table of Content in the ebook format contains all the chapter unlike the Hackett edition
-    - For future reader, this work will be translated by Reeve in his [Aristotle Complete Works Volume 2](https://hackettpublishing.com/pdfs/ACW_Detailed_TOC_Book-2.pdf) which is the choice for all of our Aristotle works in the Reading plan
 
 [^2.9]: **Lucretius**: On the Nature of Things
 
@@ -737,8 +740,8 @@ date: "Jul 13 2025"
 
 [^3.5]: **Aristotle**: On Interpretation, Categories
 
-    - For future reader, this work will be translated by Reeve in his [Aristotle Complete Works Volume 1](https://hackettpublishing.com/pdfs/ACW_Detailed_TOC_Book-1.pdf) which is the choice for all of our Aristotle works in the Reading plan
-    - The chosen edition has the translator from the *Complete Works* so I chose this edition to keep the consistency of translators, though getting the whole book might be expensive when you only need 2 minor work from it
+    - Standalone edition: [Readings in Ancient Greek Philosophy - C. D. C. Reeve](https://www.amazon.com/Readings-Ancient-Greek-Philosophy-Aristotle-ebook/dp/B01MTANY5H)
+      - This edition has the translator from the *Complete Works* so I chose this edition to keep the consistency of translators, though getting the whole book might be expensive when you only need 2 minor work from it
 
 [^3.18]: **Freud** Works
 
@@ -795,6 +798,14 @@ date: "Jul 13 2025"
 
     - In the GBWW, only a partial part of the full work was selected to be put into the volume. According to [an advertisement brochure for the 2nd edition](https://web.archive.org/web/20230531062640/http://resourcecentre.daiict.ac.in/cas/bibliographies/greatbooks/great_books_09.pdf), this part was *Chapters I-VI, IX-XII, XV, XVII*
 
+[^4.4]: **Aristotle**: Physics
+
+    - Standalone edition: [Physics - C. D. C. Reeve](https://www.amazon.com/Physics-New-Hackett-Aristotle-ebook/dp/B07BTQLPRZ)
+
+[^4.5]: **Aristotle**: Metaphysics
+
+    - Standalone edition: [Metaphysics - C. D. C. Reeve](https://www.amazon.com/Metaphysics-New-Hackett-Aristotle-ebook/dp/B01IGEQHJE)
+
 [^4.8]: **Calvin**: Institutes of the Christian Religion
 
     - I chose this edition since it is considered the authoritative edition of the work according to [Wikipedia](https://en.wikipedia.org/wiki/Institutes_of_the_Christian_Religion#cite_note-22)
@@ -831,6 +842,10 @@ date: "Jul 13 2025"
     - The original work itself has many editions according to [Wikipedia](https://en.wikipedia.org/wiki/The_Golden_Bough), however given the Chapters numbering, I found that it matches the 1922 edition so I went with it.
       - The latest edition from reputable publish with Ebook format is from [Oxford](https://www.amazon.com/Golden-Bough-Religion-Oxford-Classics-ebook/dp/B005OQH0ZI), but since its version numbering was not matching the selections above, I decided to use the version that was used in the original GBWW series
     - If you want nicer formatting and an introduction, there's the [Penguin version](https://www.amazon.com/Golden-Bough-Religion-Penguin-Classics-ebook/dp/B003FXCSTK). The text and footnotes are the same however
+
+[^5.3]: **Aristotle**: On the Soul
+
+    - Standalone edition: [De Anima - C. D. C. Reeve](https://www.amazon.com/Anima-New-Hackett-Aristotle-ebook/dp/B075YF8JVB)
 
 [^5.6]: **Virgil**: The Aeneid
 
@@ -890,6 +905,10 @@ date: "Jul 13 2025"
 
     - I went with this version for consistency with the translator from The Iliad [^2.1]
 
+[^6.4]: **Aristotle**: Metaphysics
+
+    - Standalone edition: [Metaphysics - C. D. D. Reeve](https://www.amazon.com/Metaphysics-New-Hackett-Aristotle-ebook/dp/B01IGEQHJE)
+
 [^6.5]: **Tacitus**: The Histories
 
     - The chosen edition is the only one I can find that has ebook format
@@ -946,6 +965,10 @@ date: "Jul 13 2025"
     - There's also [an older edition](https://www.amazon.com/Aristophanes-translation-introduction-Oxford-Classics-ebook/dp/B018J13P9E) with [good review](https://bmcr.brynmawr.edu/2016/2016.05.46), however at 130$ the price is too steep to be considered
       - There's also [another edition from Penguin](https://www.amazon.com/Frogs-Other-Plays-Penguin-Classics-ebook/dp/B002RI9LLM)
     - For *Wealth*, it is the only digital edition from reputable publisher that I can find
+
+[^8.4]: **Aristotle**: Rhetoric
+
+    - Standalone edition: [Rhetoric - C. D. C. Reeve](https://www.amazon.com/Rhetoric-New-Hackett-Aristotle-ebook/dp/B07KJX7F31)
 
 [^8.5]: **St. Augustine**: On Christian Doctrine
 
@@ -1014,6 +1037,10 @@ date: "Jul 13 2025"
 [^9.20]: **Joyce**: A Portrait of the Artist as a Young Man
 
     - [Annotated edtion from Oxford](https://www.amazon.com/dp/B005EEHMJ4)
+
+[^10.3]: **Aristotle**: On the Parts of Animals
+
+    - Standalone edition: [Generation of Animals - C. D. C. Reeve](https://www.amazon.com/dp/B08114J4BX)
 
 [^10.5]: **Virgil**: The Eclogues, The Georgics
 
