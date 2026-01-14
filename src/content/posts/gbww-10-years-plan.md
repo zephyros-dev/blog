@@ -121,8 +121,9 @@ date: "Jul 13 2025"
     - [Standard Ebooks](https://standardebooks.org/ebooks/thomas-hobbes/leviathan)
 12. **Milton**: Areopagitica [^2.12]
     - [Gutenberg](https://www.gutenberg.org/ebooks/608)
-13. **Pascal**: Pensées [Numbers 72, 82-83, 100, 128, 131, 139, 142-143, 171, 194- 195, 219, 229, 233-234, 242, 273, 277, 282, 289, 298, 303, 320, 323, 325, 330-331, 374, 385, 392, 395-397, 409, 412-413, 416, 418, 425, 430, 434-435, 463, 491, 525- 531, 538, 543, 547, 553, 556, 564, 571, 586, 598, 607-610, 613, 619-620, 631, 640, 644, 673, 675, 684, 692-693, 737, 760, 768, 792-793] [^2.13]
+13. **Pascal**: Pensées [Numbers 72, 82-83, 100, 128, 131, 139, 142-143, 171, 194-195, 219, 229, 233-234, 242, 273, 277, 282, 289, 298, 303, 320, 323, 325, 330-331, 374, 385, 392, 395-397, 409, 412-413, 416, 418, 425, 430, 434-435, 463, 491, 525-531, 538, 543, 547, 553, 556, 564, 571, 586, 598, 607-610, 613, 619-620, 631, 640, 644, 673, 675, 684, 692-693, 737, 760, 768, 792-793] [^2.13]
     - [Pensees - A. J. Krailsheimer](https://www.amazon.com/Pensees-Penguin-Classics-Blaise-Pascal-ebook/dp/B002XHNNWK)
+      - Conversion of numbering of the edition in the set (translated by W. F. Trotter) to this edition: Numbers 199, 44-45, 978, 79, 622, 136, 137-139, 414, 427-428, 612, 429, 418+577, 782, 173, 423, 110, 482, 103, 554, 977, 688, 525, 26+533, 33, 905, 109, 406+128+114, 117, 621+410, 122, 121, (?), 149, 131+208, 142, 214, 388+352+192+212+353+712+538, 358, 190, 189, 919, 449, 835, 502, 446, 218, 287+289+286+453, 281, 454+451, 451, 311, 392, 826-827, 503, 257, 269+198, 793, 593, 570, 499+308
 14. **Pascal**: Treatise on the Arithmetical Triangle [^2.14]
     - [Treatise on the Arithmetical Triangle - Richard Pulskamp](https://devapeur.wordpress.com/wp-content/uploads/2016/11/pascal-arithmetic-triangle.pdf)
 15. **Swift**: Gulliver's Travels [^2.15]
@@ -867,6 +868,7 @@ date: "Jul 13 2025"
 [^5.13]: **Spinoza**: Ethics
 
     - [NDPR reviews of the edition](https://ndpr.nd.edu/reviews/ethics-proved-in-geometrical-order/)
+
     > This critical edition, reportedly more similar to the Van Vloten and Land edition than the more often cited Carl Gebhardt version, benefits in its preparation from the timely discovery in 2010 in the Vatican archives of a copy of Ethics supposedly handwritten by Spinoza's correspondent, Ehrenfried Walther von Tschirnhaus. Silverthorne and Kisner's translation therefore can claim to get us closer to the original manuscript, i.e., one less layer of betrayal.
 
 [^5.14]: **Berkeley**: The Principles of Human Knowledge
