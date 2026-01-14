@@ -687,6 +687,7 @@ date: "Jul 13 2025"
       > - The problem is that the Hackett edition, which is the only one that uses the Sellier, could be better. It's a bit stodgy sometimes, and the book itself (like most Hackett editions) could really be better organized and produced. Frankly, it's a bit of a toss-up between a better version of an older edition and a lesser version of a better edition.
     - There's also [an edition from Oxford](https://www.amazon.com/Pens%C3%A9es-Writings-Oxford-Worlds-Classics/dp/0199540365), but the Amazon reviews indicate some translations error, and it doesn't contains all Pascal manuscripts
     - The [latest edition I can find is translated by Pierre Zoberman, released in 2022](https://www.cuapress.org/9780813233468/pensees/), but there's no review of it that I can find, though some articles on Pascal uses it as source text
+    - Roger Ariew translations is available in [Kindle edition](https://www.amazon.com/Pascal-Philosophical-Fragments-Selected-Classics-ebook/dp/B0FNZZ6ZS4) now, but it only has the selected writing rather than all of them
 
 [^2.14]: **Pascal**: Treatise on the Arithmetical Triangle
 
