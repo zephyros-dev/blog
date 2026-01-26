@@ -33,7 +33,7 @@ date: "Jan 25 2026"
 ### YEAR ONE
 
 1. Homer, *The Iliad*
-   - Check [GBWW, Second Year, 1](gbww-10-years-plan#second-year)
+   - Check [GBWW, Second Year, 1](./gbww-10-years-plan#second-year)
 2. Homer, *The Odyssey*
    - Check [GBWW, Sixth Year, 2](gbww-10-years-plan#sixth-year)
 3. Aeschylus, *The Oresteia* (counts for 2)
