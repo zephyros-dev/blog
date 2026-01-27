@@ -43,7 +43,9 @@ date: "Jan 25 2026"
 5. Shakespeare, *Hamlet*
    - Check [GBWW, First Year, 12](gbww-10-years-plan.md#first-year)
 6. Eugene O’Neill, *Long Day’s Journey into Night*
+   - [Critical Edition -  William Davies King](https://www.amazon.com/Long-Days-Journey-Night-Multimedia-ebook/dp/B01CYWVAQE)
 7. Samuel Beckett, *Waiting for Godot*
+   - [Kindle edition](https://www.amazon.com/Waiting-Godot-Tragicomedy-Beckett-Samuel-ebook/dp/B008UX3QU0)
 
 ### YEAR TWO
 
