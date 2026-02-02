@@ -453,8 +453,8 @@ date: "Jul 13 2025"
 10. **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids, On Geometrical Demonstration [^9.10]
     - The Great Experiment Concerning the Equilibrium of Fluids: [Great Physics Texts Series, Volume II, Chapter 14 - 15 - Kerry Kuehn](https://www.amazon.com/Students-Guide-Through-Great-Physics-ebook/dp/B00RZKJ6LM)
     - On Geometrical Demonstration: Check [Sixth Year, 13](#sixth-year)
-11. **Molière**: Tartuffe
-    - [The Misanthrope, Tartuffe, and Other Plays - Maya Slater](https://www.amazon.com/dp/B0077R8S9Y)
+11. **Molière**: Tartuffe [^9.11]
+    - [Moliere: The Complete Richard Wilbur Translations, Volume 2](https://www.amazon.com/Moliere-Complete-Translations-Misanthrope-Amphitryon-ebook/dp/B08WC31PVJ)
 12. **Montesquieu**: The Spirit of Laws [Book I-V, VIII, XI-XII]
     - [The Spirit of the Laws](https://www.amazon.com/Montesquieu-Cambridge-History-Political-Thought-ebook/dp/B00E3URAUG)
 13. **Faraday**: Experimental Researches in Electricity [Series I-II], A Speculation Touching Electric Conduction and the Nature of Matter [^9.13]
@@ -1014,6 +1014,11 @@ date: "Jul 13 2025"
 [^9.10]:  **Pascal**: The Great Experiment Concerning the Equilibrium of Fluids
 
     - Free scan at [Internet Archive](https://archive.org/details/the-physical-treatises-of-pascal)
+
+[^9.11]: **Molière**: Tartuffe
+
+    - [Reviews of various translations](https://www.editoreric.com/greatlit/books/Tartuffe-translations.html)
+       > The work that has set the modern standard, however, is Richard Wilbur's 1963 translation into heroic couplets—rhyming iambic pentameter. A prominent poet himself (Things of This World, 1956), Wilbur manages to produce elegant verse with the wit intact, the result being the closest approximation we have to the effect we imagine Molière's dramatic verse achieved with French audiences of his time.
 
 [^9.13]: **Faraday**: Experimental Researches in Electricity
 

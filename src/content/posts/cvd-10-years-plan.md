@@ -19,6 +19,7 @@ date: "Jan 25 2026"
   - [YEAR EIGHT](#year-eight)
   - [YEAR NINE](#year-nine)
   - [YEAR TEN](#year-ten)
+- [Footnotes](#footnotes)
 
 ## Introduction
 
@@ -108,7 +109,9 @@ date: "Jan 25 2026"
 ### YEAR SIX
 
 1. Bacon, *Essays*
-2. Molière, *The Misanthrope*, *The Doctor in Spite of Himself*
+2. Molière, *The Misanthrope*, *The Doctor in Spite of Himself* [^6.2]
+   - *The Misanthrope*: Check [GBWW, Ninth Year, 11](gbww-10-years-plan.md#ninth-year), or you can get the edition below since it has both translations
+   - *The Doctor in Spite of Himself*: [The Misanthrope and Other Plays - Donald M. Frame](https://www.amazon.com/Misanthrope-Other-Plays-Signet-Classics-ebook/dp/B00KWG6560)
 3. Blaise Pascal, *Pensées*
    - Check [GBWW, Second Year, 13](gbww-10-years-plan.md#second-year)
 4. Thomas Hobbes, *Leviathan*
@@ -180,3 +183,12 @@ date: "Jan 25 2026"
 8. Arthur Miller, *Death of a Salesman*
 9. Saramago, *Blindness*, *The Cave*
 10. Antoine de Saint-Exupéry, *The Little Prince*
+
+## Footnotes
+
+[^6.2]: Molière, *The Doctor in Spite of Himself*
+
+    - [Reviews of various translations of his other works](https://www.editoreric.com/greatlit/books/Tartuffe-translations.html)
+       > The work that has set the modern standard, however, is Richard Wilbur's 1963 translation into heroic couplets—rhyming iambic pentameter. A prominent poet himself (Things of This World, 1956), Wilbur manages to produce elegant verse with the wit intact, the result being the closest approximation we have to the effect we imagine Molière's dramatic verse achieved with French audiences of his time.
+      > The 1967 translation by Donald M. Frame follows Wilbur's closely, but some of his lines are superior in my opinion. (See the examples to get an idea for yourself.)
+    - I used Donald M. Frame translations for *The Doctor in Spite of Himself* since Wilbur did not translate that work
