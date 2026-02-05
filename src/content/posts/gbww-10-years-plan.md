@@ -44,6 +44,7 @@ date: "Jul 13 2025"
 - For works that are originally in English and is available at *Standard Ebooks* (.e.g.: Shakespeare plays), I'll choose them over the commercial edition since I'm mostly interested in reading the text itself rather than doing deep research into each one, and to keep the original spirit of the set:
   > The Advisory Board recommended that no scholarly apparatus should be included in the set. No “introductions” giving the Editors’ views of the authors should appear. The books should speak for themselves, and the reader should decide for himself. Great books contain their own aids to reading; that is one reason why they are great. Since we hold that these works are intelligible to the ordinary man, we see no reason to interpose ourselves or anybody else between the author and the reader.
 - For entries without footnotes, it's usually because there's only one digital edition I can find that passes the criteria
+- For those who want a deeper dives into Shakespeare individual works, you can consult [Waggish blog on Shakespeare critical editions](https://www.waggish.org/critical-editions-of-shakespeare/)
 
 ## Reading by year
 
