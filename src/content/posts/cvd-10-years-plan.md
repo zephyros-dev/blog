@@ -119,6 +119,7 @@ date: "Jan 25 2026"
 ### YEAR SIX
 
 1. Bacon, *Essays*
+   - [Gutenberg](https://www.gutenberg.org/ebooks/56463)
 2. Molière, *The Misanthrope*, *The Doctor in Spite of Himself* [^6.2]
    - *The Misanthrope*: Check [GBWW, Ninth Year, 11](./gbww-10-years-plan.md#ninth-year), or you can get the edition below since it has both translations
    - *The Doctor in Spite of Himself*: [The Misanthrope and Other Plays - Donald M. Frame](https://www.amazon.com/Misanthrope-Other-Plays-Signet-Classics-ebook/dp/B00KWG6560)
@@ -135,6 +136,7 @@ date: "Jan 25 2026"
 8. Karl Marx and Friedrich Engels, *The Communist Manifesto*
    - Check [GBWW, First Year, 19](./gbww-10-years-plan.md#first-year)
 9. J.M. Coetzee, *Disgrace*
+   - [Kindle Edition](https://www.amazon.com/Disgrace-Novel-J-M-Coetzee-ebook/dp/B01M7X4E44)
 
 ### YEAR SEVEN
 
