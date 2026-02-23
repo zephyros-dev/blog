@@ -88,7 +88,8 @@ date: "Jan 25 2026"
    - Check [GBWW, Second Year, 9](./gbww-10-years-plan.md#second-year)
 2. Virgil, *The Aeneid* (counts for 2)
    - Check [GBWW, Fifth Year, 6](./gbww-10-years-plan.md#fifth-year)
-3. Ovid, *Metamorphoses*
+3. Ovid, *Metamorphoses* [^4.3]
+   - [Metamorphoses - Stephanie McCarter](https://www.amazon.com/Metamorphoses-Ovid-ebook/dp/B09NLPRTQ2)
 4. Plutarch, *Lives of the Noble Greeks and Romans* (selections)
    - Check [GBWW, First Year, 6](./gbww-10-years-plan.md#first-year)
 5. Marcus Aurelius, *Meditations*
@@ -143,6 +144,7 @@ date: "Jan 25 2026"
 1. Cervantes, *Don Quixote* (counts for 2)
    - Check [GBWW, Fifth Year, 12](./gbww-10-years-plan.md#fifth-year)
 2. William Congreve, *The Way of the World*
+   - [Standard Ebooks](https://standardebooks.org/ebooks/william-congreve/the-way-of-the-world)
 3. Voltaire, *Candide*
    - Check [GBWW, Second Year, 16](./gbww-10-years-plan.md#second-year)
 4. Goethe, *Faust* (counts for 2—maybe only selections of Part Two)
@@ -150,6 +152,8 @@ date: "Jan 25 2026"
    - Part Two: Check [GBWW, Tenth Year, 14](./gbww-10-years-plan.md#tenth-year)
 5. Byron and Keats, selected poems
 6. Jane Austen, *Pride and Prejudice*, *Persuasion*
+   - *Pride and Prejudice*: [Standard Ebooks](https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice)
+   - *Persuasion*: [Standard Ebooks](https://standardebooks.org/ebooks/jane-austen/persuasion)
 7. Stendhal, *The Red and the Black*, *The Charterhouse of Parma* (counts for 2)
 
 ### YEAR EIGHT
@@ -198,6 +202,10 @@ date: "Jan 25 2026"
 
 <!-- markdownlint-disable ul-indent -->
 ## Footnotes
+
+[^4.3]: Ovid, *Metamorphoses*
+
+    - [Review from BMCR](https://bmcr.brynmawr.edu/2023/2023.08.39/)
 
 [^6.2]: Molière, *The Doctor in Spite of Himself*
 
