@@ -154,7 +154,9 @@ date: "Jan 25 2026"
 6. Jane Austen, *Pride and Prejudice*, *Persuasion*
    - *Pride and Prejudice*: [Standard Ebooks](https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice)
    - *Persuasion*: [Standard Ebooks](https://standardebooks.org/ebooks/jane-austen/persuasion)
-7. Stendhal, *The Red and the Black*, *The Charterhouse of Parma* (counts for 2)
+7. Stendhal, *The Red and the Black*, *The Charterhouse of Parma* (counts for 2) [^7.7]
+   - *The Red and the Black*: [Raymond n. MacKenzie](https://www.amazon.com/Red-Black-Chronicle-1830-Stendhal-ebook/dp/B0BMWQFHCH)
+   - *The Charterhouse of Parma*: [John Sturrock](https://www.amazon.com/Charterhouse-Parma-Penguin-Classics-ebook/dp/B002RI9HNE)
 
 ### YEAR EIGHT
 
@@ -213,3 +215,11 @@ date: "Jan 25 2026"
       > - The work that has set the modern standard, however, is Richard Wilbur's 1963 translation into heroic couplets—rhyming iambic pentameter. A prominent poet himself (Things of This World, 1956), Wilbur manages to produce elegant verse with the wit intact, the result being the closest approximation we have to the effect we imagine Molière's dramatic verse achieved with French audiences of his time.
       > - The 1967 translation by Donald M. Frame follows Wilbur's closely, but some of his lines are superior in my opinion.
     - I used Donald M. Frame translations for *The Doctor in Spite of Himself* since Wilbur did not translate that work
+
+[^7.7]: Stendhal, *The Red and the Black*, *The Charterhouse of Parma*
+
+    - *The Red and the Black*:
+      - [Review of Raymond Mackenzie translation](https://www.ronslate.com/on-red-and-black-a-novel-by-stendahl-translated-by-raymond-n-mackenzie/)
+      - [Reddit discussions](https://www.reddit.com/r/books/comments/12yjtzt/the_best_translations_ive_read_of_stendahls_the/)
+    - *The Charterhouse of Parma*:
+      - [Margaret Mauldon translation](https://www.amazon.com/Charterhouse-Parma-Oxford-Worlds-Classics-ebook/dp/B006A2INCY)
